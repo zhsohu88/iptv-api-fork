@@ -5,13 +5,23 @@ https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/coun
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+# https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+# https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+# https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+# https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+# https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+# http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt            # 小苹果，蜗牛线路[测试2]
+# https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/JJdoudizhu.txt    # 自己的JJ斗地主
+https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/chs.txt           # 成人
+# https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/dalian.txt       # 大连
+http://106.53.99.30/8.txt     # 电视家9
+https://ygbh.site/bh.txt      # 月光宝盒
+https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt     # NEW直播
+https://4708.kstore.space/omg/tv.txt     # 拾光电视
+https://gitlab.com/tvkj/loong/-/raw/main/loog.txt    # 七星itv
