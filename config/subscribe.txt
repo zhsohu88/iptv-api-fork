@@ -29,6 +29,8 @@ https://4708.kstore.space/omg/tv.txt
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 # 爱尚直播
 http://211.101.234.24:866/aishang.txt
+# 野火LIVE
+https://pastebin.com/raw/V0BhYHF4
 # http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt            # 小苹果，蜗牛线路[测试2]
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/JJdoudizhu.txt    # 自己的JJ斗地主
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/dalian.txt       # 大连
