@@ -13,7 +13,6 @@ CCTV2,http://106.53.99.30/dl/cctv2.m3u8$!
 CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND#http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 CCTV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXKnFU9T505QMpWLcYnx3uQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNbiZgR_ywo1Ht-jnnl-lZ2%2CEND$!
 CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8$!
-CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8$!
 CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8$!
 CCTV3,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 CCTV3,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND$!
@@ -25,7 +24,6 @@ CCTV4,http://106.53.99.30/dl/bjyd.php?id=3$!
 CCTV4,http://106.53.99.30/dl/cctv4.m3u8$!
 CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND#http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 CCTV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND$!
-CCTV4,http://39.134.65.141/PLTV/88888888/224/3221226092/1.m3u8$!
 CCTV4,http://39.134.65.141/PLTV/88888888/224/3221226092/1.m3u8$!
 CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8$!
 CCTV5,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
