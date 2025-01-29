@@ -16,7 +16,7 @@ https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 # 成人
-https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/chs.txt
+# https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/chs.txt
 # 电视家9
 http://106.53.99.30/8.txt
  # 月光宝盒
