@@ -47,6 +47,8 @@ http://rihou.cc:567/gggg.nzk
 http://iptv.catvod.com/tv.m3u
 # 码点影仓
 http://mdxgh.tpddns.cn:9999/new/mdzb.txt
+# 烽火
+https://gitea.moe/A378197273/king/raw/branch/main/168.json
 # http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt            # 小苹果，蜗牛线路[测试2]
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/JJdoudizhu.txt    # 自己的JJ斗地主
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/dalian.txt       # 大连
