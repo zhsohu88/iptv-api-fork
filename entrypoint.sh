@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 for file in /iptv-api-config/*; do
   filename=$(basename "$file")
