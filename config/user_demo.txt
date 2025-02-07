@@ -80,7 +80,8 @@ CCTV17,http://39.134.65.141/PLTV/88888888/224/3221225708/1.m3u8$!
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8$!
 CCTV17,http://106.46.147.82:10443/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$!
 CCTV4美洲
-CCTV4欧洲
+CCTV4欧洲,http://106.46.113.171:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$!
+CCTV4欧洲,http://106.46.147.82:10443/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$!
 CCTV兵器科技
 CCTV第一剧场
 CCTV风云剧场
