@@ -20,16 +20,12 @@ jobs:
       run: pip install requests
 
     - name: Fetch playlist URL
-      run: python fetch_playlist_url.py
+      run: python dalian.py
 
     - name: 提交并推送更改
-      # env:
-        # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"  # 配置本地 Git 用户邮箱
         git config --local user.name "github-actions[bot]"  # 配置本地 Git 用户名
         git pull origin main  # 先拉取远程更改
-        git add 大连地方台.txt  # 确保添加所有生成的 txt 文件
+        git add config/local.txt  # 确保添加所有生成的 txt 文件
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update playlist with available URLs" && git push)  # 提交更改并推送
-        # git commit -m "Update playlist with available URLs" || echo "No changes to commit"  # 如果没有更改，不执行提交
-        # git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/zht98/dadf.git HEAD:main  # 使用 GitHub Token 进行身份验证并推送更改 || echo "No changes to push"  # 如果没有更改，不执行推送
