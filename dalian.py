@@ -14,7 +14,12 @@ def fetch_playlist_url():
     headers = {  # 定义请求头，以模拟浏览器的请求
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
-    output_lines = []  # 存储输出行的列表
+    output_lines = [
+        "# 这是本地源列表，一行一个源，格式为：频道名称,接口地址",
+        "# 支持设置白名单：接口后添加$!",
+        "# The local source list, one line per source, format: channel name, interface address",
+        "# Support setting whitelist: add $! after the interface"
+    ]  # 添加注释行
     for channel_name, channel_id in idn.items():  # 遍历每个频道名称及其对应的频道ID
         url = f"https://dlyapp.dltv.cn/apiv4.5/api/m3u8_notoken?channelid={channel_id}"  # 构建请求URL
         for _ in range(3):  # 尝试三次
@@ -36,7 +41,7 @@ def fetch_playlist_url():
             continue
         playlist_url = match.group(1).replace('\\/', '/')  # 替换地址中的转义斜杠
         output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
-    with open("大连地方台.txt", "w") as file:  # 将结果写入文件
+    with open("config/local.txt", "w") as file:  # 将结果写入文件
         file.write("\n".join(output_lines))
 
 if __name__ == "__main__":
