@@ -1,4 +1,4 @@
-name: Fetch and Save Playlist URL
+name: '大连台'   # Fetch and Save Playlist URL
 
 on:
   workflow_dispatch:  # 允许手动触发
