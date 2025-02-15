@@ -53,7 +53,9 @@ https://gitea.moe/A378197273/king/raw/branch/main/168.json
 # 易看电视
 http://117.72.68.25:9230/latest.txt
 # 星火电视
-http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt 
+http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
+# 彩直港澳台(黑软顶配直播)
+https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh
 # http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt            # 小苹果，蜗牛线路[测试2]
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/JJdoudizhu.txt    # 自己的JJ斗地主
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/dalian.txt       # 大连
