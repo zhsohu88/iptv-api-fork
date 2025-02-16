@@ -18,9 +18,7 @@ https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 # 成人
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/chs.txt
-# 电视家9
-http://106.53.99.30/8.txt
- # 月光宝盒
+# 月光宝盒
 https://ygbh.site/bh.txt
 # NEW直播
 https://raw.githubusercontent.com/chuzjie/wuihui/main/小米/DSJ240101.txt
@@ -33,11 +31,11 @@ http://211.101.234.24:866/aishang.txt
 # 野火LIVE
 https://pastebin.com/raw/V0BhYHF4
 # 范明明
-https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 # 欧歌vjj
-https://欧歌vjj.u.nxog.top/m//tv/
+https://欧歌vjj.u.nxog.top/m/tv/
 # 欧歌AI直播
-https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 # 西夏影视
 https://d.kstore.dev/download/2912/520.txt
 # 宝全影院272 ①live(EXO)、②Live(IJK)
@@ -48,8 +46,9 @@ http://rihou.cc:567/gggg.nzk
 http://iptv.catvod.com/tv.m3u
 # 码点影仓
 http://mdxgh.tpddns.cn:9999/new/mdzb.txt
-# 烽火
-https://gitea.moe/A378197273/king/raw/branch/main/168.json
+# 野火
+# https://pastebin.com/raw/V0BhYHF4
+# https://ibf.tw/Egjgn
 # 易看电视
 http://117.72.68.25:9230/latest.txt
 # 星火电视
