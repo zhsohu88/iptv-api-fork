@@ -4,203 +4,205 @@ CCTV1,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamob
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
-CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-CCTV1,http://113.57.111.4:1111/tsfile/live/1000_1.m3u8
-CCTV1,http://goo.bkpcp.top/mg/cctv1
+CCTV1,http://47.92.130.115:9000/TVOD/1000000001000018602/ystenlive/index.m3u8?ace
+CCTV1,http://111.160.27.70:35793/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://42.227.91.217:9003/hls/1/index.m3u8
-CCTV1,http://175.18.189.238:9998/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1,http://36.44.157.12:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 CCTV2,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
-CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
+CCTV2,http://47.92.130.115:9000/TVOD/1000000001000023315/ystenlive/index.m3u8?ace
 CCTV2,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV2,http://113.57.111.4:1111/tsfile/live/1001_1.m3u8
-CCTV2,http://goo.bkpcp.top/mg/cctv2
+CCTV2,http://113.195.13.72:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://42.227.91.217:9003/hls/2/index.m3u8
-CCTV2,http://175.18.189.238:9998/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://36.44.157.178:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://221.226.4.10:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
+CCTV2,http://218.58.136.82:352/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://36.44.157.12:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://111.9.163.109:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV3,http://39.134.65.141/PLTV/88888888/224/3221225799/1.m3u8
 CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 CCTV3,http://39.134.65.175/PLTV/88888888/224/3221225799/1.m3u8
-CCTV3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV3,http://113.57.111.4:1111/tsfile/live/1002_1.m3u8
-CCTV3,http://goo.bkpcp.top/mg/cctv3
+CCTV3,http://47.92.130.115:9000/TVOD/1000000001000013682/ystenlive/index.m3u8?ace
+CCTV3,http://113.195.13.72:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://42.227.91.217:9003/hls/3/index.m3u8
-CCTV3,http://175.18.189.238:9998/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
+CCTV3,http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://113.101.119.26:8090/hls/115/index.m3u8
 CCTV4,http://39.134.65.141/PLTV/88888888/224/3221226092/1.m3u8
 CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
-CCTV4,http://113.57.111.4:1111/tsfile/live/1003_1.m3u8
-CCTV4,http://goo.bkpcp.top/mg/cctv4
+CCTV4,http://47.92.130.115:9000/TVOD/1000000005000265004/ystenlive/index.m3u8?ace
+CCTV4,http://113.195.13.72:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4,http://42.227.91.217:9003/hls/4/index.m3u8
-CCTV4,http://175.18.189.238:9998/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://36.44.157.178:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://221.226.4.10:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
+CCTV4,http://218.58.136.82:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://36.44.157.12:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://113.101.119.26:8090/hls/116/index.m3u8
 CCTV5,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV5,http://39.134.65.141/PLTV/88888888/224/3221225818/1.m3u8
 CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV5,http://39.134.65.175/PLTV/88888888/224/3221225818/1.m3u8
-CCTV5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV5,http://113.57.111.4:1111/tsfile/live/1004_1.m3u8
-CCTV5,http://goo.bkpcp.top/mg/cctv5
+CCTV5,http://47.92.130.115:9000/TVOD/1000000005000025222/ystenlive/index.m3u8?ace
+CCTV5,http://111.160.27.70:35793/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.195.13.72:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,http://42.227.91.217:9003/hls/5/index.m3u8
-CCTV5,http://175.18.189.238:9998/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
+CCTV5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+CCTV5,http://36.44.157.12:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV5+,http://39.134.65.141/PLTV/88888888/224/3221225507/1.m3u8
 CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 CCTV5+,http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
+CCTV5+,http://47.92.130.115:9000/TVOD/1000000001000018504/ystenlive/index.m3u8?ace
 CCTV5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV5+,http://goo.bkpcp.top/mg/cctv5p
-CCTV5+,http://175.18.189.238:9998/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://60.209.125.254:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://36.44.157.178:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://221.226.4.10:9901/tsfile/live/0005_1.m3u8
+CCTV5+,http://218.58.136.82:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://36.44.157.12:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://113.101.119.26:8090/hls/10/index.m3u8
+CCTV5+,http://183.215.211.219:9998/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV6,http://39.134.65.141/PLTV/88888888/224/3221225814/1.m3u8
 CCTV6,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 CCTV6,http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8
-CCTV6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
-CCTV6,http://113.57.111.4:1111/tsfile/live/1005_1.m3u8
-CCTV6,http://goo.bkpcp.top/mg/cctv6
+CCTV6,http://47.92.130.115:9000/TVOD/1000000001000001737/ystenlive/index.m3u8?ace
+CCTV6,http://113.195.13.72:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://42.227.91.217:9003/hls/6/index.m3u8
-CCTV6,http://175.18.189.238:9998/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://59.39.89.130:60901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
+CCTV6,http://36.44.157.12:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://111.9.163.109:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV7,http://39.134.65.141/PLTV/88888888/224/3221225671/1.m3u8
 CCTV7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 CCTV7,http://39.134.65.175/PLTV/88888888/224/3221225671/1.m3u8
-CCTV7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
-CCTV7,http://113.57.111.4:1111/tsfile/live/1006_1.m3u8
-CCTV7,http://goo.bkpcp.top/mg/cctv7
+CCTV7,http://47.92.130.115:9000/TVOD/1000000001000024341/ystenlive/index.m3u8?ace
+CCTV7,http://113.195.13.72:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV7,http://182.37.169.94:352/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://42.227.91.217:9003/hls/7/index.m3u8
-CCTV7,http://175.18.189.238:9998/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
+CCTV7,http://218.58.136.82:352/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV8,http://39.134.65.141/PLTV/88888888/224/3221225795/1.m3u8
 CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV8,http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
-CCTV8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
-CCTV8,http://113.57.111.4:1111/tsfile/live/1007_1.m3u8
-CCTV8,http://goo.bkpcp.top/mg/cctv8
+CCTV8,http://47.92.130.115:9000/TVOD/1000000001000031433/ystenlive/index.m3u8?ace
+CCTV8,http://113.195.13.72:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV8,http://42.227.91.217:9003/hls/8/index.m3u8
-CCTV8,http://175.18.189.238:9998/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://36.44.157.178:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
+CCTV8,http://111.9.163.109:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://113.101.119.26:8090/hls/120/index.m3u8
 CCTV9,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV9,http://39.134.65.141/PLTV/88888888/224/3221225676/1.m3u8
 CCTV9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 CCTV9,http://39.134.65.175/PLTV/88888888/224/3221225676/1.m3u8
-CCTV9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV9,http://goo.bkpcp.top/mg/cctv9
+CCTV9,http://47.92.130.115:9000/TVOD/1000000001000014583/ystenlive/index.m3u8?ace
+CCTV9,http://113.195.13.72:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV9,http://42.227.91.217:9003/hls/9/index.m3u8
-CCTV9,http://175.18.189.238:9998/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://60.209.125.254:352/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://221.226.4.10:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
+CCTV9,http://218.58.136.82:352/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://113.101.119.26:8090/hls/121/index.m3u8
 CCTV10,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV10,http://39.134.65.141/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
 CCTV10,http://39.134.65.175/PLTV/88888888/224/3221225677/1.m3u8
-CCTV10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
+CCTV10,http://47.92.130.115:9000/TVOD/1000000001000023734/ystenlive/index.m3u8?ace
 CCTV10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10,http://113.57.111.4:1111/tsfile/live/1009_1.m3u8
-CCTV10,http://goo.bkpcp.top/mg/cctv10
+CCTV10,http://113.195.13.72:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV10,http://182.37.169.94:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://42.227.91.217:9003/hls/10/index.m3u8
+CCTV10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
 CCTV11,http://39.134.65.141/PLTV/88888888/224/3221226123/1.m3u8
 CCTV11,http://39.134.67.108/PLTV/88888888/224/3221226123/1.m3u8
 CCTV11,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 CCTV11,http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
 CCTV11,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-CCTV11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
+CCTV11,http://47.92.130.115:9000/TVOD/1000000005000265011/ystenlive/index.m3u8?ace
 CCTV11,http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://113.57.111.4:1111/tsfile/live/1010_1.m3u8
-CCTV11,http://goo.bkpcp.top/mg/cctv11
+CCTV11,http://113.195.13.72:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV11,http://42.227.91.217:9003/hls/11/index.m3u8
+CCTV11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV12,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV12,http://39.134.65.141/PLTV/88888888/224/3221225669/1.m3u8
 CCTV12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 CCTV12,http://39.134.65.175/PLTV/88888888/224/3221225669/1.m3u8
-CCTV12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
+CCTV12,http://47.92.130.115:9000/TVOD/1000000001000032494/ystenlive/index.m3u8?ace
 CCTV12,http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12,http://113.57.111.4:1111/tsfile/live/1011_1.m3u8
-CCTV12,http://goo.bkpcp.top/mg/cctv12
+CCTV12,http://113.195.13.72:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://42.227.91.217:9003/hls/12/index.m3u8
-CCTV12,http://175.18.189.238:9998/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
+CCTV12,http://218.58.136.82:352/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV13,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 CCTV13,http://39.134.65.141/PLTV/88888888/224/3221226125/1.m3u8
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 CCTV13,http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
-CCTV13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
+CCTV13,http://47.92.130.115:9000/TVOD/1000000002000021303/ystenlive/index.m3u8?ace
 CCTV13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13,http://113.57.111.4:1111/tsfile/live/1012_1.m3u8
-CCTV13,http://goo.bkpcp.top/mg/cctv13
+CCTV13,http://111.160.27.70:35793/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://113.195.13.72:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://39.134.65.141/PLTV/88888888/224/3221226132/1.m3u8
 CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV14,http://39.134.65.175/PLTV/88888888/224/3221225674/1.m3u8
-CCTV14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
-CCTV14,http://113.57.111.4:1111/tsfile/live/1013_1.m3u8
-CCTV14,http://goo.bkpcp.top/mg/cctv14
+CCTV14,http://47.92.130.115:9000/TVOD/1000000001000008170/ystenlive/index.m3u8?ace
+CCTV14,http://113.195.13.72:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14,http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://42.227.91.217:9003/hls/14/index.m3u8
-CCTV14,http://175.18.189.238:9998/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://36.44.157.178:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://113.56.95.69:53765/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
+CCTV14,http://218.58.136.82:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://36.44.157.12:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://39.134.65.141/PLTV/88888888/224/3221225513/1.m3u8
 CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
+CCTV15,http://47.92.130.115:9000/TVOD/1000000005000265014/ystenlive/index.m3u8?ace
+CCTV15,http://113.195.13.72:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
-CCTV15,http://113.57.111.4:1111/tsfile/live/0015_1.m3u8
-CCTV15,http://goo.bkpcp.top/mg/cctv15
-CCTV15,http://175.18.189.238:9998/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
-CCTV15,http://113.195.45.205:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://220.202.110.48:9003/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://36.44.157.12:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://113.101.119.26:8090/hls/127/index.m3u8
+CCTV15,http://101.66.199.158:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15,http://183.215.211.219:9998/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://39.134.65.141/PLTV/88888888/224/3221225893/1.m3u8
 CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
+CCTV16,http://47.92.130.115:9000/TVOD/1000000006000233002/ystenlive/index.m3u8?ace
+CCTV16,http://113.195.13.72:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV16,https://yunmei.tv/main/cctv-16.m3u8
-CCTV16,http://113.195.45.205:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV16,http://183.215.211.219:9998/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV16,http://111.160.17.2:59901/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://113.15.184.97:8181/tsfile/live/faacts/1111_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV17,http://39.134.65.141/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
-CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-CCTV17,http://113.57.111.4:1111/tsfile/live/1014_1.m3u8
-CCTV17,http://goo.bkpcp.top/mg/cctv17
+CCTV17,http://47.92.130.115:9000/TVOD/1000000006000268004/ystenlive/index.m3u8?ace
+CCTV17,http://113.195.13.72:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://182.37.169.94:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://175.18.189.238:9998/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://36.44.157.178:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
-CCTV17,http://113.195.45.205:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4K,http://117.144.58.42:35455/gaoma/cctv4k.m3u8
+CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
+CCTV17,http://218.58.136.82:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://36.44.157.12:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://183.215.211.219:9998/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 CCTV4K,http://iptv.0564.org:35455/gaoma/cctv4k.m3u8
+CCTV4K,http://117.144.58.42:35455/gaoma/cctv4k.m3u8
+CCTV4K,http://dsm.huarunguoji.top:35455/rptv/G_CCTV-4K-HD.m3u8?license=gitv
 CCTV4K,http://home.wwang.pw:35455/gaoma/cctv4k.m3u8
 CCTV4K,http://www.clmy.cc:35455/gaoma/cctv4k_10m.m3u8
 CCTV8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
 CCTV8K,http://www.clmy.cc:35455/gaoma/cctv8k_36m.m3u8
 CCTV4美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=85c9fb128ac91587cf67086436bd4af8631774375811d0d14ba7158ffb2f56b528e7e92a2da4c2f8bd757394265b58efcbccdce316306a1dae700620a73e52c2ab049d8bd223c049567a8c10bf
-CCTV4美洲,http://nn.7x9d.cn/组播/咪咕视频.php?id=cctv4a
-CCTV4欧洲,http://113.57.111.4:1111/tsfile/live/1003_1.m3u8
-CCTV4欧洲,http://goo.bkpcp.top/mg/cctv4
+CCTV4美洲,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4a
+CCTV4欧洲,http://47.92.130.115:9000/TVOD/1000000005000265004/ystenlive/index.m3u8?ace
+CCTV4欧洲,http://113.195.13.72:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4欧洲,http://42.227.91.217:9003/hls/4/index.m3u8
-CCTV4欧洲,http://175.18.189.238:9998/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4欧洲,http://36.44.157.178:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4欧洲,http://221.226.4.10:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4欧洲,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
-CCTV4欧洲,http://113.195.45.205:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4欧洲,http://220.202.110.48:9003/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4欧洲,http://113.57.20.158:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4欧洲,http://218.58.136.82:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4欧洲,http://36.44.157.12:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4欧洲,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4欧洲,http://113.101.119.26:8090/hls/116/index.m3u8
+CCTV4欧洲,http://101.66.199.158:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4欧洲,http://183.215.211.219:9998/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4欧洲,http://101.66.198.187:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 兵器科技,http://183.11.239.36:808/hls/21/index.m3u8
 第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 电视指南,http://183.11.239.36:808/hls/13/index.m3u8
 发现之旅,https://www.freetv.top/migu/624878970.m3u8?migutoken=0c68d2a85b32e86acd048b5ab9286a3750692ceb54503ef0ed68859167054a56c2461fadc67e64f8c2de06f9a3d0025f868b4e3a512fceee9e38263af64d6ea8774e7273627170ee3bac329ed4
+发现之旅,http://ttkx.cc:1380/公开源/mg9.php?id=fxzl
 发现之旅,http://120.55.49.231:3095/rtp/233.50.201.98:5140
 风云剧场,http://183.11.239.36:808/hls/95/index.m3u8
 风云音乐,http://183.11.239.36:808/hls/99/index.m3u8
@@ -215,70 +217,71 @@ CCTV4欧洲,http://113.57.20.158:9901/tsfile/live/1023_1.m3u8?key=txiptv&playliv
 文化精品,http://183.11.239.36:808/hls/97/index.m3u8
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 中学生,https://www.freetv.top/migu/708869532.m3u8?migutoken=535c444d5835721c25f0107f1b72b5fac16787aa32d88fa321d90d8982b4450aa9ff2abf4fb4da67f4caec3177b26814c9a987b8f2680b0c969adadd56afc0750af4b85ed18106de2fcf2ade74
+中学生,http://ttkx.cc:1380/公开源/mg9.php?id=zxs
 CETV1,http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8
-CETV1,http://113.118.15.210:808/hls/122/index.m3u8
-CETV1,https://www.freetv.top/migu/923287154.m3u8?migutoken=d21257aae243f35a5649c738ecab36fc32bad792bb1eeb468d0c7ddf7673f3875c81cc104c214de4ad51694fa8c04cefcd2ee9b64f9013fd2732f29c5e5cc9b1d02850bd3bd207e87e977c5f67
 CETV1,http://39.134.158.201:80/000000001000/1000000002000027253/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1&stbId=no
+CETV1,https://www.freetv.top/migu/923287154.m3u8?migutoken=d21257aae243f35a5649c738ecab36fc32bad792bb1eeb468d0c7ddf7673f3875c81cc104c214de4ad51694fa8c04cefcd2ee9b64f9013fd2732f29c5e5cc9b1d02850bd3bd207e87e977c5f67
 CETV1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
+CETV1,http://113.118.15.210:808/hls/122/index.m3u8
 CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
-CETV2,http://113.118.15.210:808/hls/78/index.m3u8
-CETV2,https://www.freetv.top/migu/923287211.m3u8?migutoken=b23bba9375b0af38609073897ec088567eef811deb097a525d8c556e983b0b89b8715a490202b04fe22557d27ea351c57735c33d94b405619b35e9a3bbf6127fc1774896124ac264d254951cb0
+CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
 CETV2,http://39.134.158.201:80/000000001000/1000000005000266004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=no
+CETV2,https://www.freetv.top/migu/923287211.m3u8?migutoken=b23bba9375b0af38609073897ec088567eef811deb097a525d8c556e983b0b89b8715a490202b04fe22557d27ea351c57735c33d94b405619b35e9a3bbf6127fc1774896124ac264d254951cb0
+CETV2,http://113.118.15.210:808/hls/78/index.m3u8
 CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8
-CETV4,http://113.118.15.210:808/hls/79/index.m3u8
-CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=54ca77a9f743c7c47ca79ec8b8e8cdaa1c2fe191c3629448e68089b6230e2f4aaad5dd20aa0b45691cb140e78427b5bf2f684e845cff99c377306fa13ef4d26e770f7158e3207edef027bbafdb
 CETV4,http://39.134.158.201:80/000000001000/1000000005000025333/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=no
+CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=54ca77a9f743c7c47ca79ec8b8e8cdaa1c2fe191c3629448e68089b6230e2f4aaad5dd20aa0b45691cb140e78427b5bf2f684e845cff99c377306fa13ef4d26e770f7158e3207edef027bbafdb
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
+CETV4,http://113.118.15.210:808/hls/79/index.m3u8
 CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
+CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 CGTN,http://111.160.17.2:59901/tsfile/live/0001_19.m3u8
-CGTN,https://www.freetv.top/migu/609017205.m3u8?migutoken=51883270c84332bdb568be41e01a5e6611d504e9b3a6ff05904b71bd29db214444e25b6004975f0771f530c6f7ecd7f90674647b4a4efffdadc2d40055b9c1f68a74ca70ffbcca734e9e3782bc
 CGTN,http://39.134.158.201:80/000000001000/1000000002000009569/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=no
+CGTN,https://www.freetv.top/migu/609017205.m3u8?migutoken=51883270c84332bdb568be41e01a5e6611d504e9b3a6ff05904b71bd29db214444e25b6004975f0771f530c6f7ecd7f90674647b4a4efffdadc2d40055b9c1f68a74ca70ffbcca734e9e3782bc
 CGTN,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cgtn
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN,http://139.129.231.228:50060/rtp/239.21.2.30:5002
 CGTN,http://120.55.49.231:3095/rtp/233.50.201.126:5140
 CGTN,http://139.196.151.191:2051/rtp/239.45.1.194:5140
-CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna
+CGTN,http://139.129.231.228:50060/rtp/239.21.2.30:5002
+CGTN,http://222.68.135.70:5555/TVOD/1000000002000009569/ystenlive/index.m3u8?ace
 CGTN阿拉伯语,http://39.134.158.201:80/000000001000/1000000006000280001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=no
 CGTN阿拉伯语,http://139.129.231.228:50060/rtp/239.21.2.34:5002
-CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
+CGTN阿拉伯语,http://222.68.135.70:5555/TVOD/1000000006000280001/ystenlive/index.m3u8?ace
 CGTN俄语,http://39.134.158.201:80/000000001000/1000000006000280004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=no
-CGTN俄语,http://139.129.231.228:50060/rtp/239.21.2.35:5002
 CGTN俄语,http://120.55.49.231:3095/rtp/233.50.201.39:5140
+CGTN俄语,http://139.129.231.228:50060/rtp/239.21.2.35:5002
+CGTN俄语,http://222.68.135.70:5555/TVOD/1000000006000280004/ystenlive/index.m3u8?ace
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,https://0472.org/hls/cgtnx.m3u8
-CGTN法语,http://goo.bkpcp.top/mg/cgtnf
 CGTN法语,http://39.134.158.201:80/000000001000/1000000006000280003/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=no
-CGTN法语,http://139.129.231.228:50060/rtp/239.21.2.33:5002
 CGTN法语,http://120.55.49.231:3095/rtp/233.50.201.37:5140
+CGTN法语,http://139.129.231.228:50060/rtp/239.21.2.33:5002
 CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
-CGTN西班牙语,http://goo.bkpcp.top/mg/cgtne
+CGTN法语,http://222.68.135.70:5555/TVOD/1000000006000280003/ystenlive/index.m3u8?ace
 CGTN西班牙语,http://39.134.158.201:80/000000001000/1000000006000280002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=no
 CGTN西班牙语,http://139.129.231.228:50060/rtp/239.21.2.32:5002
+CGTN西班牙语,http://222.68.135.70:5555/TVOD/1000000006000280002/ystenlive/index.m3u8?ace
 CGTN纪录,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-CGTN纪录,http://goo.bkpcp.top/mg/cgtnjl
 CGTN纪录,http://39.134.158.201:80/000000001000/8428799834696888424/index.m3u8?channel-id=ystenlive&Contentid=8428799834696888424&livemode=1&stbId=no
 CGTN纪录,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cgtnjl
-CGTN纪录,http://139.129.231.228:50060/rtp/239.21.2.31:5002
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN纪录,http://139.129.231.228:50060/rtp/239.21.2.31:5002
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 
 📡卫视频道,#genre#
 安徽卫视,http://39.134.65.141/PLTV/88888888/224/3221225925/1.m3u8
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 安徽卫视,http://39.135.133.181:80/wh7f454c46tw1868742531-358551099/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8?
-安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
+安徽卫视,http://47.92.130.115:9000/TVOD/1000000001000030159/ystenlive/index.m3u8?ace
 安徽卫视,http://39.164.180.36:19901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://113.57.111.4:1111/tsfile/live/1021_1.m3u8
+安徽卫视,http://113.195.13.72:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://42.227.91.217:9003/hls/34/index.m3u8
-安徽卫视,http://175.18.189.238:9998/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://59.39.89.130:60901/tsfile/live/0125_6.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3
+安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
+安徽卫视,http://218.58.136.82:352/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://113.101.119.26:808/hls/509/index.m3u8
 北京卫视,http://39.134.65.141/PLTV/88888888/224/3221225678/1.m3u8
 北京卫视,http://39.134.65.162/PLTV/88888888/224/3221225931/1.m3u8
 北京卫视,http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8
@@ -287,18 +290,18 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 北京卫视,http://39.135.135.11:80/wh7f454c46tw1614955021--2080436109/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
+北京卫视,http://47.92.130.115:9000/TVOD/1000000001000021288/ystenlive/index.m3u8?ace
 北京卫视,http://39.164.180.36:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 兵团卫视,http://39.134.67.108/PLTV/88888888/224/3221226005/1.m3u8
+兵团卫视,http://47.92.130.115:9000/TVOD/1000000005000266005/ystenlive/index.m3u8?ace
+兵团卫视,http://113.195.13.72:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
 兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
+兵团卫视,http://113.101.119.26:8090/hls/523/index.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-兵团卫视,http://113.195.45.205:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=0
-兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://123.132.233.194:352/tsfile/live/0113_1.m3u8
-兵团卫视,http://218.89.240.144:59901/tsfile/live/0115_1.m3u8
-兵团卫视,http://121.33.239.242:9901/tsfile/live/1000_1.m3u8
-兵团卫视,http://113.118.15.210:808/hls/7/index.m3u8
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+兵团卫视,http://59.48.75.130:3052/tsfile/live/1003_1.m3u8
+兵团卫视,http://110.7.131.40:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://110.7.131.4:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://39.134.65.141/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://39.134.65.164/PLTV/88888888/224/3221225672/1.m3u8
 东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
@@ -307,108 +310,108 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 东方卫视,http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
 东方卫视,http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://39.135.133.174:80/wh7f454c46tw4120819765--1012470760/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8?
-东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
 东方卫视,http://39.164.180.36:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+东方卫视,http://113.195.13.72:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://39.134.65.173/PLTV/88888888/224/3221225950/1.m3u8
 东南卫视,http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
 东南卫视,http://39.135.133.170:80/wh7f454c46tw2364389302-1789027315/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8?
-东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
 东南卫视,http://39.164.180.36:19901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://113.57.111.4:1111/tsfile/live/1027_1.m3u8
+东南卫视,http://113.195.13.72:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视,http://42.227.91.217:9003/hls/43/index.m3u8
-东南卫视,http://175.18.189.238:9998/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://60.209.125.254:352/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://221.226.4.10:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
+东南卫视,http://218.58.136.82:352/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://113.101.119.26:8090/hls/102/index.m3u8
+东南卫视,http://183.215.211.219:9998/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
-甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
+甘肃卫视,http://47.92.130.115:9000/TVOD/1000000002000017827/ystenlive/index.m3u8?ace
 甘肃卫视,http://39.164.180.36:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 甘肃卫视,http://42.227.91.217:9003/hls/51/index.m3u8
+甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
+甘肃卫视,http://113.101.119.26:808/hls/150/index.m3u8
+甘肃卫视,http://180.213.174.225:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://183.66.15.146:60901/tsfile/live/0141_1.m3u8
+甘肃卫视,http://1.195.30.9:19901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://39.150.96.141:65535/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3
-甘肃卫视,http://113.195.45.205:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
-甘肃卫视,http://218.13.14.6:60050/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://124.128.73.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://123.130.84.106:8154/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://39.134.65.141/PLTV/88888888/224/3221225966/1.m3u8
 广东卫视,http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 广东卫视,http://39.135.133.177:80/wh7f454c46tw1795581319--1194261384/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8?
-广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
+广东卫视,http://47.92.130.115:9000/TVOD/1000000001000014176/ystenlive/index.m3u8?ace
 广东卫视,http://39.164.180.36:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://113.57.111.4:1111/tsfile/live/1022_1.m3u8
-广东卫视,http://goo.bkpcp.top/mg/gdws
+广东卫视,http://113.195.13.72:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://222.173.108.238:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://42.227.91.217:9003/hls/45/index.m3u8
-广东卫视,http://175.18.189.238:9998/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://59.39.89.130:60901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
+广东卫视,http://218.58.136.82:352/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://39.134.65.141/PLTV/88888888/224/3221226024/1.m3u8
-广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
+广西卫视,http://47.92.130.115:9000/TVOD/1000000002000019837/ystenlive/index.m3u8?ace
 广西卫视,http://39.164.180.36:19901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-广西卫视,http://goo.bkpcp.top/mg/gxws
-广西卫视,http://42.227.91.217:9003/hls/46/index.m3u8
-广西卫视,http://175.18.189.238:9998/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://221.226.4.10:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://111.160.27.70:35793/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://111.29.9.33:6610/000000001000/1000000002000019837/index.m3u8?channel-id=bestzb&Contentid=1000000002000019837&livemode=1&stbId=3
-广西卫视,http://113.195.45.205:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://113.195.13.72:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://42.227.91.217:9003/hls/46/index.m3u8
+广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
+广西卫视,http://183.215.211.219:9998/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8
+广西卫视,http://218.29.168.146:352/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://39.134.65.141/PLTV/88888888/224/3221225974/1.m3u8
 贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 贵州卫视,http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 贵州卫视,http://39.135.133.150:80/wh7f454c46tw2662058177-1170447983/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8?
-贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
+贵州卫视,http://47.92.130.115:9000/TVOD/1000000002000003169/ystenlive/index.m3u8?ace
 贵州卫视,http://39.164.180.36:19901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://113.57.111.4:1111/tsfile/live/1029_1.m3u8
+贵州卫视,http://113.195.13.72:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 贵州卫视,http://182.37.169.94:352/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://42.227.91.217:9003/hls/41/index.m3u8
-贵州卫视,http://175.18.189.238:9998/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
 海南卫视,http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
+海南卫视,http://47.92.130.115:9000/TVOD/1000000002000023773/ystenlive/index.m3u8?ace
+海南卫视,http://113.195.13.72:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
-海南卫视,http://113.57.111.4:1111/tsfile/live/1031_1.m3u8
-海南卫视,http://goo.bkpcp.top/mg/hinws
+海南卫视,http://113.101.119.26:808/hls/519/index.m3u8
 海南卫视,http://113.56.95.69:53765/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-海南卫视,http://113.195.45.205:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 海南卫视,http://220.202.110.48:9003/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://218.89.240.144:59901/tsfile/live/1000_1.m3u8
-海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+海南卫视,http://119.36.148.115:59901/tsfile/live/1008_1.m3u8
+海南卫视,http://111.160.17.2:59901/tsfile/live/0001_35.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
 河北卫视,http://39.135.135.11:80/wh7f454c46tw1614955021--2080436109/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
+河北卫视,http://47.92.130.115:9000/TVOD/1000000002000017118/ystenlive/index.m3u8?ace
 河北卫视,http://39.164.180.36:19901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://113.195.13.72:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://222.173.108.238:352/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://42.227.91.217:9003/hls/47/index.m3u8
-河北卫视,http://175.18.189.238:9998/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://113.56.95.69:53765/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3
-河北卫视,http://113.195.45.205:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://218.13.14.6:60050/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
+河北卫视,http://218.58.136.82:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://113.101.119.26:808/hls/144/index.m3u8
 河南卫视,http://39.134.67.108/PLTV/88888888/224/3221226023/1.m3u8
 河南卫视,http://39.135.133.163:80/wh7f454c46tw1927674075--1027858324/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?
-河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
-河南卫视,http://113.57.111.4:1111/tsfile/live/1025_1.m3u8
-河南卫视,http://goo.bkpcp.top/mg/hnws
+河南卫视,http://47.92.130.115:9000/TVOD/1000000002000027731/ystenlive/index.m3u8?ace
+河南卫视,http://113.195.13.72:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://42.227.91.217:9003/hls/17/index.m3u8
-河南卫视,http://175.18.189.238:9998/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://221.226.4.10:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-河南卫视,http://113.195.45.205:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
+河南卫视,http://113.101.119.26:808/hls/513/index.m3u8
+河南卫视,http://183.215.211.219:9998/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://101.66.198.187:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8
 黑龙江卫视,http://39.134.65.141/PLTV/88888888/224/3221226060/1.m3u8
 黑龙江卫视,http://39.134.65.173/PLTV/88888888/224/3221225994/1.m3u8
 黑龙江卫视,http://39.135.133.173:80/wh7f454c46tw236674774--1536015720/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?
-黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
+黑龙江卫视,http://47.92.130.115:9000/TVOD/1000000001000001925/ystenlive/index.m3u8?ace
 黑龙江卫视,http://39.164.180.36:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+黑龙江卫视,http://113.195.13.72:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://182.37.169.94:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://175.18.189.238:9998/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://39.150.96.141:65535/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://60.209.125.254:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
+黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
+黑龙江卫视,http://218.58.136.82:352/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://113.101.119.26:808/hls/138/index.m3u8
 湖北卫视,http://39.134.65.141/PLTV/88888888/224/3221225975/1.m3u8
 湖北卫视,http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
 湖北卫视,http://39.134.65.164/PLTV/88888888/224/3221225569/1.m3u8
 湖北卫视,http://39.134.65.173/PLTV/88888888/224/3221225975/1.m3u8
 湖北卫视,http://39.134.65.70:80/wh7f454c46tw2033025325-101919628/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
-湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
+湖北卫视,http://47.92.130.115:9000/TVOD/1000000001000024621/ystenlive/index.m3u8?ace
 湖北卫视,http://39.164.180.36:19901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://113.57.111.4:1111/tsfile/live/1015_1.m3u8
-湖北卫视,http://goo.bkpcp.top/mg/hubws
+湖北卫视,http://111.160.27.70:35793/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://113.195.13.72:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://39.134.65.141/PLTV/88888888/224/3221225977/1.m3u8
 湖南卫视,http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8
 湖南卫视,http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8
@@ -416,19 +419,19 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
 湖南卫视,http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 湖南卫视,http://39.134.65.71:80/wh7f454c46tw1199870867-1956939961/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
 湖南卫视,https://www.shqsy.com/tv/zb/jxyh.php?id=hunws
+湖南卫视,http://47.92.130.115:9000/TVOD/1000000001000032695/ystenlive/index.m3u8?ace
 湖南卫视,http://39.164.180.36:19901/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://39.134.65.141/PLTV/88888888/224/3221225981/1.m3u8
 吉林卫视,http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
 吉林卫视,http://39.134.65.173/PLTV/88888888/224/3221226013/1.m3u8
 吉林卫视,http://39.135.133.161:80/wh7f454c46tw2035475484-350672847/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8?
-吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
+吉林卫视,http://47.92.130.115:9000/TVOD/1000000002000027730/ystenlive/index.m3u8?ace
 吉林卫视,http://39.164.180.36:19901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://goo.bkpcp.top/mg/jlws
+吉林卫视,http://113.195.13.72:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://42.227.91.217:9003/hls/48/index.m3u8
-吉林卫视,http://175.18.189.238:9998/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
+吉林卫视,http://113.101.119.26:8090/hls/101/index.m3u8
 江苏卫视,http://39.134.65.141/PLTV/88888888/224/3221225503/1.m3u8
 江苏卫视,http://39.134.65.141/PLTV/88888888/224/3221225938/1.m3u8
 江苏卫视,http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
@@ -438,164 +441,165 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 江苏卫视,http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
 江苏卫视,http://39.134.65.77:80/wh7f454c46tw1423905495--25665477/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
-江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
+江苏卫视,http://47.92.130.115:9000/TVOD/1000000001000001828/ystenlive/index.m3u8?ace
 江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
 江西卫视,http://39.135.133.175:80/wh7f454c46tw2445534347--1810556241/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8?
-江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
+江西卫视,http://47.92.130.115:9000/TVOD/1000000006000268001/ystenlive/index.m3u8?ace
 江西卫视,http://39.164.180.36:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://113.57.111.4:1111/tsfile/live/1028_1.m3u8
-江西卫视,http://goo.bkpcp.top/mg/jxws
+江西卫视,http://113.195.13.72:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://222.173.108.238:352/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://42.227.91.217:9003/hls/36/index.m3u8
-江西卫视,http://175.18.189.238:9998/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://59.39.89.130:60901/tsfile/live/0125_10.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://113.56.95.69:53765/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
+江西卫视,http://218.58.136.82:352/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://39.134.65.141/PLTV/88888888/224/3221226089/1.m3u8
 辽宁卫视,http://39.134.65.4:80/wh7f454c46tw1549112654-332518043/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 辽宁卫视,http://39.134.67.108/PLTV/88888888/224/3221225944/1.m3u8
-辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
 辽宁卫视,https://www.shqsy.com/tv/zb/jxyh.php?id=lnws
+辽宁卫视,http://47.92.130.115:9000/TVOD/1000000001000001945/ystenlive/index.m3u8?ace
 辽宁卫视,http://39.164.180.36:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://113.57.111.4:1111/tsfile/live/1026_1.m3u8
+辽宁卫视,http://113.195.13.72:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://222.173.108.238:352/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://42.227.91.217:9003/hls/42/index.m3u8
-辽宁卫视,http://175.18.189.238:9998/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://59.39.89.130:60901/tsfile/live/0125_13.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
 内蒙古卫视,http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
+内蒙古卫视,http://47.92.130.115:9000/TVOD/1000000002000014080/ystenlive/index.m3u8?ace
+内蒙古卫视,http://113.195.13.72:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
-内蒙古卫视,http://113.195.45.205:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=0&authid=0
-内蒙古卫视,http://124.128.73.58:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://113.101.119.26:8090/hls/517/index.m3u8
+内蒙古卫视,http://180.213.174.225:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://183.66.15.146:60901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://120.192.226.35:8009/hls/60/index.m3u8
 内蒙古卫视,http://61.136.67.238:50085/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://183.66.15.146:60901/tsfile/live/0109_1.m3u8
-内蒙古卫视,http://61.156.228.12:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://121.33.239.242:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://110.53.52.63:8888/newlive/live/hls/45/live.m3u8
 宁夏卫视,http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
+宁夏卫视,http://47.92.130.115:9000/TVOD/1000000002000031451/ystenlive/index.m3u8?ace
 宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
-宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
-宁夏卫视,http://113.195.45.205:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
+宁夏卫视,http://113.101.119.26:808/hls/520/index.m3u8
+宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://220.202.110.48:9003/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://113.57.20.158:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://124.128.73.58:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://123.130.84.106:8154/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://183.66.15.146:60901/tsfile/live/0112_1.m3u8
+宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
 宁夏卫视,http://123.132.233.194:352/tsfile/live/0112_1.m3u8
 宁夏卫视,http://120.192.226.35:8009/hls/52/index.m3u8
 青海卫视,http://39.134.67.108/PLTV/88888888/224/3221225948/1.m3u8
-青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
+青海卫视,http://47.92.130.115:9000/TVOD/1000000002000013359/ystenlive/index.m3u8?ace
 青海卫视,http://39.164.180.36:19901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
-青海卫视,http://goo.bkpcp.top/mg/qhws
+青海卫视,http://113.195.13.72:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
 青海卫视,http://42.227.91.217:9003/hls/53/index.m3u8
-青海卫视,http://39.150.96.141:65535/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://221.226.4.10:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3
-青海卫视,http://113.195.45.205:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
-青海卫视,http://182.32.159.129:9933/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,http://113.195.45.205:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,http://111.160.17.2:59901/tsfile/live/0001_45.m3u8?key=txiptv&playlive=1&authid=0
-三沙卫视,http://113.118.15.210:808/hls/76/index.m3u8
+青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
+青海卫视,http://113.101.119.26:808/hls/518/index.m3u8
+青海卫视,http://183.215.211.219:9998/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://220.202.110.48:9003/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://1.195.30.9:19901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://113.195.13.72:9901/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://119.36.148.115:59901/tsfile/live/1009_1.m3u8
+三沙卫视,http://111.160.17.2:59901/tsfile/live/0001_45.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 三沙卫视,http://xxx.504900.xyz:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=59ccdc261738935307
+三沙卫视,http://113.118.15.210:808/hls/76/index.m3u8
 三沙卫视,http://jf.jxx2023.work:40446/tsfile/live/1035_1.m3u8
+三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
 三沙卫视,http://139.129.231.228:50060/rtp/239.21.2.9:5002
 山东卫视,http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 山东卫视,http://39.134.65.79:80/wh7f454c46tw3436487431--341613872/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
-山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
+山东卫视,http://47.92.130.115:9000/TVOD/1000000001000016568/ystenlive/index.m3u8?ace
 山东卫视,http://39.164.180.36:19901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://113.195.13.72:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://222.173.108.238:352/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://42.227.91.217:9003/hls/33/index.m3u8
-山东卫视,http://175.18.189.238:9998/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://39.150.96.141:65535/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://60.209.125.254:352/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://111.29.9.33:6610/000000001000/1000000001000012807/index.m3u8?channel-id=bestzb&Contentid=1000000001000012807&livemode=1&stbId=3
+山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
+山东卫视,http://218.58.136.82:352/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
-山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624
+山西卫视,http://47.92.130.115:9000/TVOD/1000000002000021220/ystenlive/index.m3u8?ace
 山西卫视,http://39.164.180.36:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://42.227.91.217:9003/hls/49/index.m3u8
-山西卫视,http://39.150.96.141:65535/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://221.226.4.10:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624
+山西卫视,http://113.101.119.26:808/hls/516/index.m3u8
+山西卫视,http://101.66.198.187:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
+山西卫视,http://218.29.168.146:352/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://220.202.110.48:9003/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://113.57.20.158:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://124.128.73.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://123.130.84.106:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8
-陕西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225625
+陕西卫视,http://47.92.130.115:9000/TVOD/1000000002000007495/ystenlive/index.m3u8?ace
 陕西卫视,http://39.164.180.36:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://goo.bkpcp.top/mg/sxws
 陕西卫视,http://42.227.91.217:9003/hls/50/index.m3u8
-陕西卫视,http://39.150.96.141:65535/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://220.202.110.48:9003/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://113.57.20.158:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://124.128.73.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://123.130.84.106:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225625
+陕西卫视,http://113.101.119.26:808/hls/514/index.m3u8
+陕西卫视,http://182.120.140.89:85/tsfile/live/0136_1.m3u8?key=txiptvvip
+陕西卫视,http://183.215.211.219:9998/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
+陕西卫视,http://218.29.168.146:352/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
 深圳卫视,http://39.135.135.44:80/wh7f454c46tw2107180814-2101585369/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
+深圳卫视,http://47.92.130.115:9000/TVOD/1000000001000009227/ystenlive/index.m3u8?ace
 深圳卫视,http://39.164.180.36:19901/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://113.57.111.4:1111/tsfile/live/1023_1.m3u8
+深圳卫视,http://113.195.13.72:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://182.37.169.94:352/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://42.227.91.217:9003/hls/35/index.m3u8
-深圳卫视,http://175.18.189.238:9998/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://39.150.96.141:65535/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://59.39.89.130:60901/tsfile/live/0125_11.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
+深圳卫视,http://218.58.136.82:352/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://113.101.119.26:808/hls/135/index.m3u8
 四川卫视,http://39.134.65.141/PLTV/88888888/224/3221225970/1.m3u8
 四川卫视,http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 四川卫视,http://39.135.133.150:80/wh7f454c46tw2508666225-725539629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8?
-四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
+四川卫视,http://47.92.130.115:9000/TVOD/1000000002000016825/ystenlive/index.m3u8?ace
 四川卫视,http://39.164.180.36:19901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://113.57.111.4:1111/tsfile/live/1032_1.m3u8
+四川卫视,http://113.195.13.72:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://42.227.91.217:9003/hls/38/index.m3u8
-四川卫视,http://175.18.189.238:9998/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://39.150.96.141:65535/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://59.39.89.130:60901/tsfile/live/0125_16.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
+四川卫视,http://113.101.119.26:808/hls/140/index.m3u8
+四川卫视,http://113.56.95.69:53765/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://39.134.65.141/PLTV/88888888/224/3221225972/1.m3u8
 天津卫视,http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8
 天津卫视,http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 天津卫视,http://39.135.135.14:80/wh7f454c46tw2183431869--601389287/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
+天津卫视,http://47.92.130.115:9000/TVOD/1000000001000003475/ystenlive/index.m3u8?ace
 天津卫视,http://39.164.180.36:19901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://113.57.111.4:1111/tsfile/live/1024_1.m3u8
+天津卫视,http://113.195.13.72:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+天津卫视,http://222.173.108.238:352/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://42.227.91.217:9003/hls/32/index.m3u8
-天津卫视,http://175.18.189.238:9998/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3
+天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 西藏卫视,http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
+西藏卫视,http://47.92.130.115:9000/TVOD/1000000002000015894/ystenlive/index.m3u8?ace
+西藏卫视,http://113.195.13.72:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
-西藏卫视,http://113.195.45.205:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
+西藏卫视,http://113.101.119.26:808/hls/521/index.m3u8
 西藏卫视,http://220.202.110.48:9003/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://124.128.73.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://123.132.233.194:352/tsfile/live/0111_1.m3u8
-西藏卫视,http://120.192.226.35:8009/hls/59/index.m3u8
 西藏卫视,http://183.66.15.146:60901/tsfile/live/0111_1.m3u8
-西藏卫视,http://218.89.240.144:59901/tsfile/live/0111_1.m3u8
-西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+西藏卫视,http://123.132.233.194:352/tsfile/live/0111_1.m3u8
+西藏卫视,http://119.36.148.115:59901/tsfile/live/0111_1.m3u8
+西藏卫视,http://120.192.226.35:8009/hls/59/index.m3u8
 新疆卫视,http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8
+新疆卫视,http://47.92.130.115:9000/TVOD/1000000002000029441/ystenlive/index.m3u8?ace
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
-新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
+新疆卫视,http://113.101.119.26:808/hls/522/index.m3u8
+新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 新疆卫视,http://220.202.110.48:9003/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://124.128.73.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://123.130.84.106:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
 新疆卫视,http://123.132.233.194:352/tsfile/live/0110_1.m3u8
 新疆卫视,http://120.192.226.35:8009/hls/61/index.m3u8
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
 延边卫视,http://39.134.65.181/PLTV/88888888/224/3221226040/1.m3u8
 延边卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226516
 延边卫视,http://61.138.128.226:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-延边卫视,http://xxx.504900.xyz:35455/itv/1000000005000266008?cdn=ystenlive
 延边卫视,http://39.134.158.201:80/000000001000/1000000005000266008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=no
+延边卫视,http://xxx.504900.xyz:35455/itv/1000000005000266008?cdn=ystenlive
 延边卫视,https://live.ybtvyun.com/video/s10006-2f92b9e0b123/index.m3u8
 延边卫视,http://dsk.cc/php/xxtv.php?id=ybws
+延边卫视,http://dsm.huarunguoji.top:35455/itv/1000000005000266008.m3u8?cdn=ystenlive
 云南卫视,http://39.134.67.108/PLTV/88888888/224/3221225957/1.m3u8
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
+云南卫视,http://47.92.130.115:9000/TVOD/1000000002000024694/ystenlive/index.m3u8?ace
 云南卫视,http://39.164.180.36:19901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+云南卫视,http://113.195.13.72:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://42.227.91.217:9003/hls/40/index.m3u8
+云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
+云南卫视,http://113.101.119.26:808/hls/515/index.m3u8
 云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3
-云南卫视,http://113.195.45.205:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-云南卫视,http://218.13.14.6:60050/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://220.202.110.48:9003/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://113.57.20.158:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://183.215.211.219:9998/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://222.169.85.8:9901/tsfile/live/0119_1.m3u8
 浙江卫视,http://39.134.65.141/PLTV/88888888/224/3221225514/1.m3u8
 浙江卫视,http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
 浙江卫视,http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8
@@ -603,20 +607,19 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 浙江卫视,http://39.134.65.175/PLTV/88888888/224/3221225959/1.m3u8
 浙江卫视,http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
 浙江卫视,http://39.134.65.71:80/wh7f454c46tw1463100067-1701166012/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
+浙江卫视,http://47.92.130.115:9000/TVOD/1000000001000014260/ystenlive/index.m3u8?ace
 浙江卫视,http://39.164.180.36:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://113.57.111.4:1111/tsfile/live/1020_1.m3u8
+浙江卫视,http://111.160.27.70:35793/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://39.134.65.75:80/wh7f454c46tw1967149281-1598774497/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
-重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
+重庆卫视,http://47.92.130.115:9000/TVOD/1000000001000001096/ystenlive/index.m3u8?ace
 重庆卫视,http://39.164.180.36:19901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://113.57.111.4:1111/tsfile/live/1030_1.m3u8
+重庆卫视,http://222.173.108.238:352/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://42.227.91.217:9003/hls/44/index.m3u8
-重庆卫视,http://175.18.189.238:9998/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
+重庆卫视,http://218.58.136.82:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://113.101.119.26:808/hls/143/index.m3u8
 重庆卫视,http://113.56.95.69:53765/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://111.29.9.33:6610/000000001000/1000000001000001096/index.m3u8?channel-id=bestzb&Contentid=1000000001000001096&livemode=1&stbId=3
-重庆卫视,http://182.32.159.129:9933/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 
 ☘️辽宁频道,#genre#
@@ -626,40 +629,41 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 大连新闻综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?p?zliaond
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/v7trb0I.m3u8
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/d27hcs3.m3u8
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?p?zliaond
-大连生活,http://live.dltv.cn/JzcFkF4/500/y4Jrc0k.m3u8
-大连文体,http://live.dltv.cn/hxT7Fc3/500/eomrT0F.m3u8
+大连生活,http://live.dltv.cn/JzcFkF4/500/g24hzsF.m3u8
+大连文体,http://live.dltv.cn/hxT7Fc3/500/w1ohxs7.m3u8
 大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
 
 🎬电影频道,#genre#
-CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-CHC动作电影,http://goo.bkpcp.top/mg/chcdz
-CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
-CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 CHC动作电影,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
-CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
 CHC家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+Hot精品剧场,http://222.68.135.70:5555/TVOD/2000000004000000002/hnbblive/index.m3u8?ace
+Hot欧美影院,http://222.68.135.70:5555/TVOD/2000000004000000005/hnbblive/index.m3u8?ace
+Hot亚洲影院,http://222.68.135.70:5555/TVOD/2000000004000000006/hnbblive/index.m3u8?ace
 NewTV惊悚悬疑,http://xxx.504900.xyz:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
+NewTV惊悚悬疑,http://222.68.135.70:5555/TVOD/1000000004000024282/ystenlive/index.m3u8?ace
 NewTV动作电影,http://xxx.504900.xyz:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+NewTV动作电影,http://222.68.135.70:5555/TVOD/1000000004000018653/ystenlive/index.m3u8?ace
 黑莓电影,http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3
 黑莓电影,http://146.235.213.45:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+黑莓电影,http://222.68.135.70:5555/TVOD/1000000004000019624/ystenlive/index.m3u8?ace
 纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 超级电影,http://111.29.9.33:6610/000000001000/1000000001000012884/index.m3u8?channel-id=bestzb&Contentid=1000000001000012884&livemode=1&stbId=3
-动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 动作电影,http://42.227.91.217:9003/hls/66/index.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn5.1678520.xyz/live/live2.1.php?id=cwjd
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://111.160.17.2:59901/tsfile/live/0001_20.m3u8?key=txiptv&playlive=1&authid=0
 AMC电影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -667,9 +671,8 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,https://s2-10623-kwimgs.52520.xyz/4gtv.php?key=e7613508260c3c3d8d25b90c55a923bf&id=litv-longturn03
 HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
-CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 CHC影迷电影,http://110.53.52.63:8888/newlive/live/hls/52/live.m3u8
-CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 粤语电影,http://zzy789.xyz/douyu1.php?id=6566671
 奶虫影院,http://zzy789.xyz/douyu1.php?id=263824
 凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
@@ -730,40 +733,39 @@ HK港鬼片,http://epg.112114.eu.org/douyu/8009547
 咪咕体育23,http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
 咪咕体育24,http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
 咪咕体育25,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
-CCTV5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV5,http://113.57.111.4:1111/tsfile/live/1004_1.m3u8
-CCTV5,http://goo.bkpcp.top/mg/cctv5
-CCTV5,http://42.227.91.217:9003/hls/5/index.m3u8
-CCTV5,http://175.18.189.238:9998/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
-CCTV5,http://36.44.157.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://221.226.4.10:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://47.92.130.115:9000/TVOD/1000000005000025222/ystenlive/index.m3u8?ace
 CCTV5,http://111.160.27.70:35793/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
+CCTV5,http://113.195.13.72:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://42.227.91.217:9003/hls/5/index.m3u8
+CCTV5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+CCTV5,http://36.44.157.12:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://111.9.163.109:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://113.101.119.26:8090/hls/58/index.m3u8
+CCTV5,http://222.134.19.31:352/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://101.66.199.158:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5+,http://47.92.130.115:9000/TVOD/1000000001000018504/ystenlive/index.m3u8?ace
 CCTV5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV5+,http://goo.bkpcp.top/mg/cctv5p
-CCTV5+,http://175.18.189.238:9998/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://60.209.125.254:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://36.44.157.178:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://221.226.4.10:9901/tsfile/live/0005_1.m3u8
-CCTV5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
-CCTV5+,http://123.130.84.106:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://219.128.121.202:59901/tsfile/live/1005_1.m3u8
+CCTV5+,http://218.58.136.82:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://36.44.157.12:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://113.101.119.26:8090/hls/10/index.m3u8
 CCTV5+,http://183.215.211.219:9998/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
+CCTV5+,http://60.209.125.254:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://111.14.181.15:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://60.214.104.110:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://115.46.95.194:8181/tsfile/live/1009_1.m3u8?key=txiptv
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
-广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
+纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 纬来体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
-纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8
 纬来体育,rtmp://220.130.201.73/sat/tv721
 五星体育,http://xxx.504900.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -771,40 +773,36 @@ CCTV5+,http://183.215.211.219:9998/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1
 体育赛事,http://139.129.231.228:50060/rtp/239.21.2.44:5002
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 劲爆体育,http://xxx.504900.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://nn.7x9d.cn/组播/咪咕视频.php?id=jbty
 劲爆体育,http://211.101.234.24:866/aishang/migu.php/migu.php?id=jbty
 辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,http://123.130.84.106:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://111.14.181.15:9901/tsfile/live/1022_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 山东体育,http://123.132.233.194:352/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,http://111.14.181.15:9901/tsfile/live/1022_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://123.130.84.106:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://123.129.70.178:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+睛彩篮球,http://13937899.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩篮球,http://lt.hxtre.com:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩篮球,http://www.52iptv.vip:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩篮球,http://231114.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-睛彩篮球,http://1.itv.nctv.top:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩篮球,http://3501776.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-睛彩篮球,http://2000.run:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
-睛彩篮球,http://161888.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-睛彩篮球,http://xxx.504900.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-睛彩篮球,http://iptv.0564.org:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+睛彩篮球,http://1.itv.nctv.top:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩篮球,http://ott.eonn.cn:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+睛彩篮球,http://161888.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+睛彩篮球,http://iptv.0564.org:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+睛彩篮球,http://2000.run:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 风云足球,http://180.213.174.225:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8
 足球频道,http://139.129.231.228:50060/rtp/239.21.1.162:5002
-魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
 魅力足球,http://111.29.9.33:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=0a72668399c6f96d928c0bf0adbe330bbae95b55cfc10f2da9e830e2e06051b89a0e1db847eaa61f6b897e3efcb05ecc6160c2ce3c8073fb2d90c8ed191845e1ca16f6bcd3aaa13f6538d2074d
 魅力足球,http://xxx.504900.xyz:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-魅力足球,http://nn.7x9d.cn/组播/咪咕视频.php?id=mlzq
 魅力足球,http://211.101.234.24:866/aishang/migu.php/migu.php?id=mlzq
-快乐垂钓,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031206
-快乐垂钓,http://111.29.9.33:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 快乐垂钓,http://180.213.174.225:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://111.29.9.33:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 快乐垂钓,http://xxx.504900.xyz:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 快乐垂钓,http://58.19.38.162:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://120.55.49.231:3095/rtp/233.50.201.109:5140
@@ -816,105 +814,160 @@ TraceSports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 
 🦄其他频道,#genre#
+爱谍战,http://222.68.135.70:5555/TVOD/2000000004000000038/hnbblive/index.m3u8?ace
 爱动漫,http://146.235.213.45:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
+爱动漫,http://222.68.135.70:5555/TVOD/2000000004000000059/hnbblive/index.m3u8?ace
+爱都市,http://222.68.135.70:5555/TVOD/6000000006000080630/wasusyt/index.m3u8?ace
+爱怀旧,http://222.68.135.70:5555/TVOD/6000000006000260630/wasusyt/index.m3u8?ace
+爱经典,http://222.68.135.70:5555/TVOD/6000000006000060630/wasusyt/index.m3u8?ace
+爱科幻,http://222.68.135.70:5555/TVOD/2000000004000000033/hnbblive/index.m3u8?ace
+爱科学,http://222.68.135.70:5555/TVOD/2000000004000000047/hnbblive/index.m3u8?ace
+爱浪漫,http://222.68.135.70:5555/TVOD/2000000004000000035/hnbblive/index.m3u8?ace
+爱历史,http://222.68.135.70:5555/TVOD/2000000004000000046/hnbblive/index.m3u8?ace
+爱旅行,http://222.68.135.70:5555/TVOD/2000000004000000056/hnbblive/index.m3u8?ace
+爱奇谈,http://222.68.135.70:5555/TVOD/2000000004000000058/hnbblive/index.m3u8?ace
+爱青春,http://222.68.135.70:5555/TVOD/6000000006000100630/wasusyt/index.m3u8?ace
 爱赛车,http://xxx.504900.xyz:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+爱赛车,http://222.68.135.70:5555/TVOD/2000000004000000055/hnbblive/index.m3u8?ace
 爱体育,http://146.235.213.45:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
 爱体育,http://xxx.504900.xyz:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
+爱体育,http://222.68.135.70:5555/TVOD/2000000004000000060/hnbblive/index.m3u8?ace
+爱玩具,http://222.68.135.70:5555/TVOD/2000000004000000053/hnbblive/index.m3u8?ace
+爱喜剧,http://222.68.135.70:5555/TVOD/2000000004000000032/hnbblive/index.m3u8?ace
+爱悬疑,http://222.68.135.70:5555/TVOD/2000000004000000036/hnbblive/index.m3u8?ace
+爱幼教,http://222.68.135.70:5555/TVOD/2000000004000000049/hnbblive/index.m3u8?ace
+爱院线,http://222.68.135.70:5555/TVOD/2000000004000000034/hnbblive/index.m3u8?ace
+百视通,http://222.68.135.70:5555/TVOD/2000000002000000050/hnbblive/index.m3u8?ace
 北京纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+北京纪实科教,http://222.68.135.70:5555/TVOD/1000000001000001910/ystenlive/index.m3u8?ace
 北京卡酷少儿,http://dsk.cc/bjtv/btime.php?id=bjkk
+北京卡酷少儿,http://222.68.135.70:5555/TVOD/1000000002000002413/ystenlive/index.m3u8?ace
 超级电影,http://111.29.9.33:6610/000000001000/1000000001000012884/index.m3u8?channel-id=bestzb&Contentid=1000000001000012884&livemode=1&stbId=3
 超级体育,http://111.29.9.33:6610/000000001000/1000000004000007755/index.m3u8?channel-id=bestzb&Contentid=1000000004000007755&livemode=1&stbId=3
 超级体育,http://xxx.504900.xyz:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 超级综艺,http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
-哒啵电竞,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000032327
+纯享4K,http://47.92.130.115:9000/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
+纯享4K,http://222.68.135.70:5555/TVOD/1000000004000011651/ystenlive/index.m3u8?ace
 哒啵电竞,http://146.235.213.45:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+哒啵电竞,http://222.68.135.70:5555/TVOD/1000000006000032327/ystenlive/index.m3u8?ace
 哒啵赛事,http://146.235.213.45:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
+哒啵赛事,http://222.68.135.70:5555/TVOD/1000000001000003775/ystenlive/index.m3u8?ace
+电子竞技,http://222.68.135.70:5555/TVOD/2000000004000000015/hnbblive/index.m3u8?ace
 动作电影,http://42.227.91.217:9003/hls/66/index.m3u8
+高清娱乐,http://222.68.135.70:5555/TVOD/2000000004000000013/hnbblive/index.m3u8?ace
 古装剧场,http://110.7.131.79:9901/tsfile/live/1014_1.m3u8
+广东嘉佳卡通,http://47.92.130.115:9000/TVOD/1000000002000025964/ystenlive/index.m3u8?ace
 广东嘉佳卡通,https://www.freetv.top/migu/614952364.m3u8?migutoken=7bd7bc954b60dbcad1bbc21c486f9ec667653857857e793c90f83f0c4887588ee8090c1667d6b6973f248545819ef77ac19e916cc002c36b97d8de7666c0e27508045d76dc43e532e7a6d55863
+广东嘉佳卡通,http://222.68.135.70:5555/TVOD/1000000002000025964/ystenlive/index.m3u8?ace
+广东珠江,http://47.92.130.115:9000/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
-广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
 广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146
+广东珠江,http://222.68.135.70:5555/TVOD/1000000004000011655/ystenlive/index.m3u8?ace
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
 黑莓电影,http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3
 黑莓电影,http://146.235.213.45:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+黑莓电影,http://222.68.135.70:5555/TVOD/1000000004000019624/ystenlive/index.m3u8?ace
 黑莓动画,http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
 黑莓动画,http://146.235.213.45:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
+黑莓动画,http://222.68.135.70:5555/TVOD/1000000004000021734/ystenlive/index.m3u8?ace
+湖南茶频道,http://222.68.135.70:5555/TVOD/2000000002000000070/hnbblive/index.m3u8?ace
 湖南电视剧,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
+湖南电视剧,http://222.68.135.70:5555/TVOD/8765482907954673867/hnbblive/index.m3u8
 湖南电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
-湖南都市,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
+湖南电影,http://222.68.135.70:5555/TVOD/7884242846753128038/hnbblive/index.m3u8
 湖南都市,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://220.170.241.204:9901/tsfile/live/1002_1.m3u8
 湖南都市,http://110.53.218.182:9902/tsfile/live/0127_1.m3u8
-湖南国际,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
+湖南都市,http://222.68.135.70:5555/TVOD/4682579636905393407/hnbblive/index.m3u8
+湖南国际,http://222.68.135.70:5555/TVOD/5015828848322021526/hnbblive/index.m3u8
 湖南金鹰纪实,http://180.213.174.225:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南金鹰纪实,http://220.170.241.204:9901/tsfile/live/1007_1.m3u8
-湖南经视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
+湖南金鹰纪实,http://222.68.135.70:5555/TVOD/1000000002000011724/ystenlive/index.m3u8?ace
+湖南金鹰卡通,http://222.68.135.70:5555/TVOD/1000000002000016601/ystenlive/index.m3u8?ace
 湖南经视,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://220.170.241.204:9901/tsfile/live/1001_1.m3u8
 湖南经视,http://110.53.218.182:9902/tsfile/live/1004_1.m3u8
+湖南经视,http://222.68.135.70:5555/TVOD/6306119848317438256/hnbblive/index.m3u8
+湖南快乐垂钓,http://222.68.135.70:5555/TVOD/2000000002000000067/hnbblive/index.m3u8?ace
+华数4K,http://47.92.130.115:9000/TVOD/2000000004000000014/hnbblive/index.m3u8?ace
+华数4K,http://222.68.135.70:5555/TVOD/2000000004000000014/hnbblive/index.m3u8?ace
+华数服务,http://222.68.135.70:5555/TVOD/2000000004000000025/hnbblive/index.m3u8?ace
 欢乐剧场,http://zzy789.xyz/douyu1.php?id=74374
-欢笑剧场4K,http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001
+家庭理财频道,http://222.68.135.70:5555/TVOD/2000000002000000064/hnbblive/index.m3u8?ace
+江苏财富天下,http://222.68.135.70:5555/TVOD/2000000002000000069/hnbblive/index.m3u8?ace
 江苏优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=7f7c4b909389a0cd5172701768041a0f3887534c4534a68bf1dc85550389e9ab156655484be16e89604513fde9da2f036ebae28d31515b0be32eb12462f5de9d9cab8f00c44671241d5c6e1356
+江苏优漫卡通,http://222.68.135.70:5555/TVOD/1000000002000010063/ystenlive/index.m3u8?ace
 金牌综艺,http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=bestzb&Contentid=1000000004000026167&livemode=1&stbId=3
 精彩影视,http://111.160.17.2:59901/tsfile/live/0001_27.m3u8?key=txiptv&playlive=1&authid=0
+精彩影视,http://222.68.135.70:5555/TVOD/2000000004000000063/hnbblive/index.m3u8?ace
 精品剧场,http://211.101.234.24:866/aishang/migu.php/migu.php?id=jpjc
 精品体育,http://146.235.213.45:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 精品体育,http://xxx.504900.xyz:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
+漫游世界,http://222.68.135.70:5555/TVOD/2000000004000000017/hnbblive/index.m3u8?ace
+咪咕全民热练,http://222.68.135.70:5555/TVOD/1000000006000270007/ystenlive/index.m3u8?ace
 咪咕视频,http://xxx.504900.xyz:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+咪咕视频,http://222.68.135.70:5555/TVOD/3000000020000011528/FifastbLive/index.m3u8?ace
+求索动物,http://13937899.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://lt.hxtre.com:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://www.52iptv.vip:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://231114.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://1.itv.nctv.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索动物,http://2000.run:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://161888.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索动物,http://xxx.504900.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://iptv.0564.org:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-求索动物,http://szd5.com:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索动物,http://2000.run:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索动物,http://xxx.504900.xyz:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 求索动物,http://home.wwang.pw:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+求索纪录,http://13937899.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://lt.hxtre.com:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://www.52iptv.vip:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://231114.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://3501776.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索纪录,http://146.235.213.45:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索纪录,http://2000.run:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://161888.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索纪录,http://xxx.504900.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索纪录,http://146.235.213.45:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 求索纪录,http://iptv.0564.org:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-求索纪录,http://szd5.com:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索纪录,http://2000.run:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索纪录,http://xxx.504900.xyz:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
+求索科学,http://13937899.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索科学,http://lt.hxtre.com:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索科学,http://www.52iptv.vip:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索科学,http://231114.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索科学,http://1.itv.nctv.top:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索科学,http://3501776.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索科学,http://146.235.213.45:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索科学,http://2000.run:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索科学,http://1.itv.nctv.top:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索科学,http://161888.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-求索科学,http://xxx.504900.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索科学,http://146.235.213.45:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 求索科学,http://iptv.0564.org:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索科学,http://2000.run:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+求索生活,http://13937899.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://lt.hxtre.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://www.52iptv.vip:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://231114.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://1.itv.nctv.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索生活,http://112.74.115.68:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索生活,http://2000.run:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索生活,http://161888.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索生活,http://xxx.504900.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
-求索生活,http://iptv.0564.org:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 求索生活,http://ott.eonn.cn:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索生活,http://112.74.115.68:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索生活,http://161888.xyz:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索生活,http://iptv.0564.org:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
+求索生活,http://2000.run:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 上视东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=ca95e85e9d733adef97233d2dedd9022ad6b1070b09ef54133fd5479557cbf70fcfe5cfc2b10fb5e3bcf63a270681d17fa495b4873816b1dac0441aed12c7c934a7a57aaba6c38fe3cf9a778aa
 上视纪实人文,http://211.101.234.24:866/aishang/migu.php/migu.php?id=shjsrw
+少儿动漫,http://222.68.135.70:5555/TVOD/2000000004000000003/hnbblive/index.m3u8?ace
+探索纪录,http://47.92.130.115:9000/TVOD/2000000004000000007/hnbblive/index.m3u8?ace
+探索纪录,http://222.68.135.70:5555/TVOD/2000000004000000007/hnbblive/index.m3u8?ace
 先锋乒羽,http://115.46.95.194:8181/tsfile/live/1114_1.m3u8?ace
 潇湘电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+新海南,http://47.92.130.115:9000/TVOD/2000000003000000011/hnbblive/index.m3u8?ace
+新海南,http://222.68.135.70:5555/TVOD/2000000003000000011/hnbblive/index.m3u8?ace
+炫动3D,http://47.92.130.115:9000/TVOD/2000000004000000012/hnbblive/index.m3u8?ace
+炫动3D,http://222.68.135.70:5555/TVOD/2000000004000000012/hnbblive/index.m3u8?ace
+浙江教科影视,http://47.92.130.115:9000/TVOD/2000000004000000001/hnbblive/index.m3u8?ace
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影视,http://222.68.135.70:5555/TVOD/2000000004000000001/hnbblive/index.m3u8?ace
 中国天气,http://139.196.151.191:2051/rtp/239.45.1.47:5140
+中国天气,http://222.68.135.70:5555/TVOD/2000000002000000057/hnbblive/index.m3u8?ace
+中华美食,http://222.68.135.70:5555/TVOD/1000000005000266015/ystenlive/index.m3u8?ace
 
 🦆韩国频道,#genre#
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -971,16 +1024,19 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
 JJ斗地主,http://live.iill.top/douyu.php?id=488743
 JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954
+JJ斗地主,http://ttkx.cc:776/64ppp泄密/hy.php?id=14079954
 HL斗地主,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=7244870
 HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870
 竞技麻将大师赛,http://iptv.com.gerss.cn/huya/29839772
 麻将竞技君,http://www.52sw.top:678/play/huya.php?id=29839772
+麻将竞技君,http://ttkx.cc:776/64ppp泄密/hy.php?id=29839772
 麻将竞技赛,http://iptv.com.gerss.cn/huya/29839772
 四川麻将联赛,http://www.52sw.top:678/play/huya.php?id=29851941
+四川麻将联赛,http://ttkx.cc:776/64ppp泄密/hy.php?id=29851941
 虎牙掼蛋赛事,http://www.52sw.top:678/play/huya.php?id=139167
 云戈宝电竞,http://www.52sw.top:678/play/huya.php?id=406324
 
-🔞直播_9,#genre#
+💎直播🔞_9,#genre#
 Anal,http://live.mycamtv.com/anal.m3u8
 Arab Girls,http://live.mycamtv.com/arab.m3u8
 Asian Girls,http://live.mycamtv.com/asian.m3u8
@@ -1045,7 +1101,7 @@ Young Girls,http://live.mycamtv.com/young.m3u8
 松視极限臺,http://ali.hlspull.yximgs.com/live/a7083b6a585d08c4739847ddaf10eead.flv
 松視开心臺,http://ali.hlspull.yximgs.com/live/61bd69741363b19bc99083551ff074af.flv
 
-🔞点播_9,#genre#
+💎点播🔞_9,#genre#
 Anal1,http://cdn.adultiptv.net/anal.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
 Big Ass,http://cdn.redtraffic.net/bigass.m3u8
@@ -1121,17 +1177,27 @@ Synthia Fixx gets assfucked from behind,https://vip1.slbfsl.com/20221016/D5eWJFF
 passion,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 passion,http://206.212.244.71:8080/4wVQA7/625159/160027
 
-🔞日韩_9,#genre#
+💎日韩🔞_9,#genre#
 1,https://vip4.ddyunbo.com/20210210/1NeUm8qM/index.m3u8?skipl=1
+1,http://124.248.69.76:26781/huya/23749096
 2,https://vip4.ddyunbo.com/20210208/9KsD0Ud4/index.m3u8?skipl=1
+2,http://124.248.69.76:26781/huya/23735126
 3,https://vip4.ddyunbo.com/20210208/7lfbSciu/index.m3u8?skipl=1
+3,http://124.248.69.76:26781/huya/23865152
 4,https://vip4.ddyunbo.com/20210203/8KciJKju/index.m3u8?skipl=1
+4,http://124.248.69.76:26781/huya/23903196
 5,https://vip4.ddyunbo.com/20210203/QF5mPocx/index.m3u8?skipl=1
+5,http://124.248.69.76:26781/huya/23740156
 6,https://vip4.ddyunbo.com/20210202/cih7fwTe/index.m3u8?skipl=1
+6,http://124.248.69.76:26781/huya/23728660
 7,https://vip4.ddyunbo.com/20210202/WmFU5yiE/index.m3u8?skipl=1
+7,http://124.248.69.76:26781/huya/23865058
 8,https://vip4.ddyunbo.com/20210225/fWFPZS4Y/index.m3u8?skipl=1
+8,http://124.248.69.76:26781/huya/23734183
 9,https://vip4.ddyunbo.com/20210302/Z1uQ7KJ9/index.m3u8?skipl=1
+9,http://124.248.69.76:26781/huya/23865036
 10,https://vip4.ddyunbo.com/20210208/y1rcwQRD/index.m3u8?skipl=1
+10,http://124.248.69.76:26781/huya/23734246
 1pon061110,https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
 JOA,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
 Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8 
@@ -1456,13 +1522,12 @@ Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 
-🔞国产_9,#genre#
+💎国产🔞_9,#genre#
 游戏队长20210623,https://video11.balecao.com/video/20211208/adfee582b54f891188bdd3bf3a325b28/index.m3u8
 高颜值黑丝御姐全程露脸伺候大哥激情啪啪~高颜值黑丝御姐全程露脸伺候大哥激情啪啪,https://video34.balecao.com/video/20220728/47368db68d33cce266dd2f0b9fa8fefa/index.m3u8
 大妞范天津muse 1507729455069900802 1280x720,https://video33.balecao.com/video/20220701/cf74801c1f04b0772526b9ad1b813658/index.m3u8
 STP26582 【姐姐来了】健身房换衣间 偷偷塞跳蛋自慰 极品身材运动美感 骚逼水多欲望强STP26582,https://video38.balecao.com/video/20221105/ece0faf3a1be5212469886b286ae4d88/index.m3u8
 火辣完美身材极品美乳刚播小姐姐-开档黑丝露无毛肥穴-包臀裙翘起对着镜头-进进出出抽插-吸在地上猛坐,https://video8.balecao.com/video/20211121/0aa6ab1dbec2e94021c084941f647bd9/index.m3u8
-白皙大奶巨乳婉儿妹妹-一抖胸就有欲望了-自己掰穴自慰-简直是一种享受,https://video13.balecao.com/video/20220121/411ec5b7dc614af51f23fae2ab6535d2/index.m3u8
 高颜值白嫩妹子主播奶子又大又白身材很好跳蛋插A,https://video33.balecao.com/video/20220722/f79f8d90baff1d94bb2c0a52665ccf69/index.m3u8
 麻豆传媒 FCD-6902《义体潮吹白浆四溢》无法承受深入我体内的巨根~麻豆传媒 FCD-6902 无法承受深入我体内的巨根,https://video60.balecao.com/video/20230901/3e39097b832e4708098d19b24101d5ae/index.m3u8
 爱豆传媒ID5321海天盛筵游轮party淫乱5P,https://video60.balecao.com/video/20230902/784f37d54cacd58b6815ea76d6656330/index.m3u8
@@ -1470,16 +1535,12 @@ STP26582 【姐姐来了】健身房换衣间 偷偷塞跳蛋自慰 极品身材
 精品推荐 OnlyFans极品E奶少妇【Adora18】日常大尺度私拍自慰啪啪美图视频~Video~Fnd8BJlvtFTH3wcXSjyPMCZRk7SveC,https://video15.balecao.com/video/20220225/953385be56abeec894e95c5625cf5414/index.m3u8
 花陈先生啪啪20210718,https://video11.balecao.com/video/20211208/fc7ab99607dd6ebd829c677f4dc2829f/index.m3u8
 学校附近主题宾馆拍大学生情侣周末开房爱爱看起来纯朴文静美女内心如此骚动穿上学生情趣装特别主动奶子是极品,https://video7.balecao.com/video/20211109/a8e5513185536b9e23aefc88b4e3524d/index.m3u8
-学生小情侣真会玩,https://video13.balecao.com/video/20220302/9e7f8282031dc4cb1a1bb3141c7abfb1/index.m3u8
 超高颜值-御姐高冷范美女主播-掰穴自慰-粉嫩至极魔鬼身材实在诱惑,https://video5.balecao.com/video/20211122/71ba547a7dfc2aa9dd00ef5cc0ab89ab/index.m3u8
 ~坏蛋大叔~9-15~12大叔~14~ unwanted~20160613 202810,https://video32.balecao.com/video/20220527/33819e4cb0802385de6d923f8224300b/index.m3u8
 56425-双马尾嫩嫩小萝莉！激情操逼！摄影小哥旁边看的受不了-扶着JB一下挺入-各种姿势轮番输出-bzhan lol,https://video41.balecao.com/video/20221211/1919c328d86919cd817a4501e5749b66/index.m3u8
-KU【Yuzukitty】全网首叿劲爆网红美少女【柚子猫〿Cosplay【黑丝泳装诱惑】高清原版无水印,https://video20.balecao.com/video/20220326/e743e3e84f30aee3f70f28c07b91215b/index.m3u8
-高颜值黑丝御姐全程露脸伺候大哥激情啪啪..,https://video13.balecao.com/video/20220218/d46a34c429f2f470ab32596541dae74a/index.m3u8
 好久不见的颜值模特女神露脸和头套男做爱-互舔69-无套草多逿,https://video37.balecao.com/video/20221115/71fbff115687fa567f7ae4f8292138fa/index.m3u8
 这个妹子很是极品-身材好、皮肤白-关键是嫩-被肛交时粉嫩红润的屁眼一张一合-甚是养眼＿,https://video37.balecao.com/video/20221115/ae8e8c583ffce9c102c8a052de875ea2/index.m3u8
 大耳环高颜值丝袜情趣诱惑-诱人的大奶子自己揉捏-大黑牛自慰骚穴呻吟-浪叫不断说着淫声荡语刺激狼友神经,https://video11.balecao.com/video/20211231/f00900e4769ea3a3e7670d59ec43cf29/index.m3u8
-KU激惿P姐妹花淫乱场面刺激撩人【下篇】两个大哥享受骚逼一起的舔鸡巴舔乳头服务-主动上位抽插让两小哥轮草互势,https://video20.balecao.com/video/20220327/3ecd35f66ae1fc257a029ce90a1dad16/index.m3u8
 颜值不错妹子穿着情趣内裤自慰秀翿,https://video34.balecao.com/video/20220728/da5f3807cfb9c7d5cfb920fd8af60cc3/index.m3u8
 【精品TP】医院检诊盗撿无良医生偷拍记录其脱光上衣来检查乳房的美女们第20-22系~21,https://video47.balecao.com/video/20230208/3ea0cde171d13b891b57148c91dd93c4/index.m3u8
 第一视角探花20210708,https://video11.balecao.com/video/20211205/f80c7caa1cfc05ea25864be30fbf52ce/index.m3u8
@@ -1495,18 +1556,15 @@ KU【冒险丶雷探长】大长腿小姐姐-抓着大屌吸吮-主动骑乘爆�
 【AI画质修复】约擿500高端外围女神-美乳苗条沙发调情-花式啪啪完美展示,https://video17.balecao.com/video/20220222/654147bafc00b47b1bb8d8f315e7b49e/index.m3u8
 老婆的闺蜜大胸白虎妹最近失恋了喝了不少酒躺在床上用手给她搞兴奋了把给她干了A,https://video49.balecao.com/video/20230325/be72745c6f1badc8270514b2a770e94b/index.m3u8
 吐血推荐性感嫩模小洁酒店私拍制服性感黑丝透视装诱惑1080P高清无水印,https://video7.balecao.com/video/20211106/809a5574879a1737679872252b5d7c93/index.m3u8
-闷骚的小少妇全程露脸看着很清纯没想到这么骚激情上位爆草菊花还让大哥电击逼逼好刺激口交足交吞精,https://video13.balecao.com/video/20220122/add9082e67baf3dcea5a35c834010ca9/index.m3u8
 KU长发红唇美女主播【浴室口交】先自慰-毛毛很旺盛-第一视角口交无套啪啪-高潮迭起叫床声很大,https://video24.balecao.com/video/20220506/39abee4542ff5a946d414fa3338d9451/index.m3u8
 KU一男大战双女【中篇】双飞极品少妇-佩服小哥的体力-超多姿势把两个骚货彻底征服-很多姿势都没有见过,https://video24.balecao.com/video/20220506/3648e6067b1fd60f96655251fa7cef18/index.m3u8
 推荐！女神尺度突破【辉辉】脸点同框！狂捅菊花！爽死了20221114-144135-912 20221114-144135-912,https://video46.balecao.com/video/20230209/63bf74ac6dbc55d3b774fb608844d8bd/index.m3u8
 美乳诱惑羽沫床上大尺度上空爱抚,https://video34.balecao.com/video/20220727/efb803812f4b124af8706d327949a17c/index.m3u8
-气质极品黑丝御姐啪啪做爱扛腿猛操性爱椅骑乘做爱太会玩,https://video13.balecao.com/video/20220122/8903e5f2ecbd0f174b08c8062533ea82/index.m3u8
 FC2-PPV-2019389~FC2-PPV-2019389,https://video49.balecao.com/video/20230325/55f36711e16f5a06690d5c05c6d12faf/index.m3u8
 极品韩国美女大学生高清露脸爱爱完整版,https://video26.balecao.com/video/20220508/a484c14e93a00dc3c340286899367cf5/index.m3u8
 三人行沿樱花阿依达_》_在日本口交_JAVHD_COM_1,https://video3.balecao.com/video/20210927/93ebe6c02ba7f59a5d84eeb8e8caa9a4/index.m3u8
 SDDE-696 - 沙月恵奈 須崎美羽 園田かのこ満30歳童貞で定年セックス 童貞保険 手ごろでがっちり筆おろし保障話題のち○ぽ生命勤務、筆おろし課担当の26,https://video57.balecao.com/video/20230613/d8d4dd3c7fbbdd7c9830a66bda561d6c/index.m3u8
 【百度云泄密】“几次高潮了_N次了快点我不行了“大奶大屁股女友被,https://video3.balecao.com/video/20211004/3f851e52a6b07a99101ca99042485c6a/index.m3u8
-专属小女友00后双马尾萝莉【下篇】微毛粉嫩小穴跳蛋振动棒齐上场娇小身材扶细腰后入萝莉型中的极品,https://video13.balecao.com/video/20220125/11fc40415953712c90dc12ad1a621c8f/index.m3u8
 PR社全套图·视频合辑1~11私人玩物~私人玩物—现在就要吃饭吗？ 45P7V ~2 7,https://video14.balecao.com/video/20220303/eb32c244f717efcd78d4798f149ad7bd/index.m3u8
 疗馆女技师20210719,https://video11.balecao.com/video/20211208/ea83c06b248a70713697142d40fda01f/index.m3u8
 91夯先生029-之超白嫩混血少妇SM调教 被操得说“里面好涨”,https://video60.balecao.com/video/20230903/b5f87b9e3f5180ff28332e9da4026750/index.m3u8
@@ -1519,7 +1577,6 @@ PR社全套图·视频合辑1~11私人玩物~私人玩物—现在就要吃饭�
 【泄密】哈尔滨新婚小夫妻DEMON 约拍单男19V 753P 视频无水版 ~A5191【泄密】哈尔滨新婚小夫妻DEMON 约拍单男19V 753P 视频无水版 ~v~wk 17,https://video24.balecao.com/video/20220502/879c2685b8d436fcbe38d551d6eb4ddf/index.m3u8
 0869 新作9blJ6762~【周末重磅】三品极品淫荡夫妻女主气质强无敌ss反差~cksanpin-1383068705056198661-20210416 224410-vid1 new,https://video32.balecao.com/video/20220527/fb3e298415ece8670f4ad63aa686c6ba/index.m3u8
 女大学生戏精全程露脸激情啪啪-白丝情趣口交大鸡巴,https://video7.balecao.com/video/20211122/253dee4a61073627c4aaae02c2fae3a7/index.m3u8
-高管婷婷电脑桌前被长男友后入猛操A,https://video13.balecao.com/video/20220219/7234817fa1d30dfd9f42358fa8a5852a/index.m3u8
 真实内衣店换衣间偷拍 熟女少妇 坦胸露乳~scs 232,https://video44.balecao.com/video/20230116/a649800da56db6c64dd1dbee48dd53ae/index.m3u8
 先生探花20210608,https://video11.balecao.com/video/20211206/fc7b6d24d134a6dd43a18891d8816537/index.m3u8
 双生姐妹花全程露脸一起大秀诱惑狼友-互动狼友撩骚-揉奶玩逼抠穴浪叫呻吟-一起撅着屁股对狼友发情好骚啊,https://video47.balecao.com/video/20230209/90906684b7fb78fd8cd833e0421db8e5/index.m3u8
@@ -1605,7 +1662,6 @@ S女 酒 店 開 房 兩 男 一 女 3,https://video10.balecao.com/video/2022010
 91porn30G视频390部 20 57GB~91porn网拍2~网拍~上海十四中初三2班雅莉初尝禁果性爱自拍视频流出,https://video17.balecao.com/video/20220225/f43ef03325e2bcb1ba13dbabe05c0dd1/index.m3u8
 精品推荐 极品『东莞第一大奶骚妇 』从学生时代成长为淫荡女 多根自慰棒炮机高潮喷水洗澡啪啪全记录42V~DGDIDNSF~DGDIDNSF 4,https://video15.balecao.com/video/20220225/2a4f74419a7650b7191933bfa8279e1f/index.m3u8
 2021 11 25 醫 生 和 小 護 士 氣 質 美 女 【 米 拉 】 - 護 士 裝 病 床 上,https://video15.balecao.com/video/20220311/919ab94d437bc3191e12f7bfb36dfa63/index.m3u8
-国产自慰直播性感美女茉莉自慰肥逼诱人A,https://video13.balecao.com/video/20220220/d4aa3843d2ef1a6e9042e77d53566ddd/index.m3u8
 【家庭摄像头】夫妻啪啪日常第1期1~v~00-38-51,https://video24.balecao.com/video/20220501/54ab6e81e7691085548ee2973b909f86/index.m3u8
 蝴蝶逼大屁股骚女人都这么骚吗？倒立着让小哥用双道具抽插逼逼和菊花-撅着屁股让小哥玩弄-带上假鸡巴草她,https://video37.balecao.com/video/20221115/11ad649067d3b32cf4409aa97a71d7c9/index.m3u8
 小憨憨探花啪啪20211004,https://video9.balecao.com/video/20211214/eccbe082798f3ac13b188430f826824f/index.m3u8
@@ -1636,7 +1692,6 @@ STP23744 170CM高端极品美妞 这颜值大长腿满分 性格很好聊聊天 
 刚成年双马尾小萝莉-和男友居家操逼-揉捏白嫩奶子-后入猛顶妹子开心了-无毛嫩穴主动骑乘,https://video33.balecao.com/video/20220621/4a5612a33bb7bbbe64b5d10ae50ba7c4/index.m3u8
 2021 10 6- 坐 標 山 東 濟 甯~2021 10 6- 坐 標 山 東 濟 甯,https://video15.balecao.com/video/20220311/051d14804c028bb21715d8bd1d942428/index.m3u8
 KTV里约的小少妇-歌也不唱了就口交啪啪,https://video.balecao.com/video/20210913/5108de56c81798b06fb7d9d8f498d045/index.m3u8
-开档黑丝小保姆【上篇】颜值不错像哥母狗一样在地上屌着大哥的鸡巴口交爬行让小哥浴室抠逼玩弄床上放肆抽插爆草,https://video13.balecao.com/video/20220121/9637114f916fa1ae38909eaa2a1aa8dd/index.m3u8
 高端泄密流出火爆全网泡良达人金先生 最新约炮气质美女沈有林请她吃精子,https://video60.balecao.com/video/20230902/006c89a776dd04478bda71c68dab470d/index.m3u8
 超清专题茶馆妈妈,https://video.balecao.com/video/20210919/56fec5b5cb4d02f0dc1d9f17565933ca/index.m3u8
 KU丝袜情趣睡衣装极品身材女模特-骚穴诱惑小哥哥-口交大鸡巴多体位蹂躏抽插-呻吟可射表情好骚,https://video29.balecao.com/video/20220610/f7a4c51f3e9fecf52da161b102003c84/index.m3u8
@@ -1653,9 +1708,7 @@ ChineseAssStyle上海幼师情趣内衣榨干家长Pornhubcom,https://video16.ba
 U77原创SN李佳_极品白皙身材_白白嫩嫩的皮肤_小穴和胸部粉得出水_微露脸水蛇腰穿学生装和连体丝袜啪啪啪,https://video3.balecao.com/video/20210929/5361d371998e2cc5bbdaf8d58d9da5f7/index.m3u8
 毒藤把神奇女侠变成邪恶,https://video7.balecao.com/video/20211109/1b1db8c8307edfc44ebf653f5636286a/index.m3u8
 娇小身材短发妹妹新人下海大屌操逼小舌头舔屌吸吮主动骑乘位扶屌插入爆操粉嫩小穴A,https://video59.balecao.com/video/20230731/46e71fe2e124ba72950759d0c5ea3ce8/index.m3u8
-【探花】阿伟探良家小伙大战良家人妻沙发抠穴近景AV视角骚货娇喘连连源码录制,https://video13.balecao.com/video/20220122/a9b88eabb4ff2329a1f8bb4e3f182bae/index.m3u8
 美少女魔物喵 极品网红萝莉绝美cosplay~fh1eoawfaee,https://video37.balecao.com/video/20221102/6a2f39a2e324c41e853bbece9ab5b679/index.m3u8
-会所培训新人【中篇】两个年轻小妹被两个小哥爆草抽插激情4P躺在床上被小哥各种玩弄揉奶抠逼轮草浪叫呻吟不断,https://video13.balecao.com/video/20220120/0a2a552e02dcaf667a8d3362e6403a5b/index.m3u8
 老公公罩杯人妻出道令和玲,https://video5.balecao.com/video/20211116/aca619ea7fdf065431dd587b263f5719/index.m3u8
 KAWD-907艺人kawaii*专属决定 写真艺人立花梅AV出道,https://video16.balecao.com/video/20220313/8f6c79b827df1a7c57da7af5a0ffc042/index.m3u8
 蝴蝶逼年轻小辣妹全程露脸有纹身跟小男友酒店激情啪啪给狼友看-激情上位边草边揉骚奶子-浪叫呻吟不止刺激,https://video61.balecao.com/video/20230804/b8c072c4755ec38ea525badc1b78bee0/index.m3u8
@@ -1676,7 +1729,6 @@ ABP-108 NEW TOKYO流儀 04 桃谷エリカ,https://video4.balecao.com/video/2021
 澄瞳笑奇人妻出会相茜,https://video3.balecao.com/video/20210928/5b9af17ceb6141fc7433390333a751df/index.m3u8
 小智寻花】LO骚御姐返场-按头深喉插嘴-扶着大屁股撞击-浪叫大声越搞越骚,https://video33.balecao.com/video/20220621/72f07b4fc0b403d251e018eae9bc01e5/index.m3u8
 B004002淫乱女上司仕事,https://video.balecao.com/video/20210919/692d45929dcdb1fa2712d6a2ac8b5311/index.m3u8
-【最新 性爱泄密】台上女神 胯下母狗『极品女神 反差婊』高颜值女大学生与男友各种姿势做爱 高清720P原版,https://video13.balecao.com/video/20220219/df2d1d8355ff91968dbf7c208ff5d3b0/index.m3u8
 火爆网红玩偶姐姐『HongKongDoll』海岛生活2穿上清凉白丝 干粉嫩的极致小嫩鲍~3,https://video37.balecao.com/video/20221115/836ff5fcd10a5a13d8922e47be67ad3a/index.m3u8
 丰满的相泽仁刺激和性交硬,https://video6.balecao.com/video/20211030/5f8fbe372cafcb8b848289abb1cca456/index.m3u8
 【精品泄密】浙大张竹君高中与大学的生活 寝室发骚摸奶乳头异常敏感~视频~VID 20170716 232643 0,https://video25.balecao.com/video/20220520/991c5de7e3fd8f179c173fa2449b075c/index.m3u8
@@ -1695,7 +1747,6 @@ KU【漂亮眼镜爆乳御姐大战炮友】大阴唇无毛骚逼-手指猛扣-�
 风骚的小少妇露脸伺候蒙面大哥让大哥在床上各种玩弄全程露脸深喉大鸡巴各种抽插让大哥抠逼玩道具插A,https://video60.balecao.com/video/20230831/e650a415d82291756689c72c55d1686b/index.m3u8
 18白 虎 第 一 美 穴 雙 馬 尾 嫩 妹 凹 凸,https://video8.balecao.com/video/20211119/1e90cbbb6d6eb1cf2987aa9fa89f3e7e/index.m3u8
 [麻豆传媒]街头搭讪放荡护士(MD0084)模特：戚雨薇,https://video34.balecao.com/video/20220720/ab27092515a770dbaae8d53054d96779/index.m3u8
-颜值不错苗条身材大奶妹子自慰秀,https://video13.balecao.com/video/20220212/28bd216ef802b9737054480578a820d0/index.m3u8
 家里有这样的小妖精我迟早得精尽人亡射了一头的精液A,https://video44.balecao.com/video/20230122/67eb08172ec3b48b406c6c67062a76d3/index.m3u8
 KU青涩乖巧小姐姐-JK制服搭黑丝-口交还不习惯但很认真-全程给人贴心小女友般的感觉,https://video29.balecao.com/video/20220610/878e28e063516fa52359740abe52276b/index.m3u8
 ~坏蛋大叔~9-15~13大叔其他~160827~ unwanted~VID 20160827 143023,https://video32.balecao.com/video/20220527/571a44876ee4dcc256f80e24b9e108c7/index.m3u8
@@ -1720,9 +1771,7 @@ MIDE-538偷偷诱惑生产OK的粉扑巨乳哦酒吧店JULIA,https://video33.bal
 精品推荐 居家骚浪美少妇『饺子』自拍广场舞玩具情趣调教啪啪62V~JZSVIP~饺子SVIP 40,https://video15.balecao.com/video/20220225/209a448cc813392a9fde0f6a15b0b4e4/index.m3u8
 巅峰王朝-Y哥大战-背着老公出來偷吃的少妇-尝鲜鲍鱼肉棒-两人水火交融-客厅激战-看着他们交战好过瘾-高清无水印！,https://video44.balecao.com/video/20230116/a42b1a2caa2a32cd789a6dce76d7165a/index.m3u8
 大陸AV剧情：梦境淫语与E奶女神的激情春夢.,https://video2.balecao.com/video/20210930/d01f43eaf98fb5a2d059838c81aff37a/index.m3u8
-极品骚货大长腿C罩杯粉粉乳房娇喘声声勾魂摄魄,https://video13.balecao.com/video/20220120/14c817ab4120e76eb92f617bbcec0e0b/index.m3u8
 2021 11 20-【利利坚辛苦】-周末礼包-极品女神双飞场-甜美风骚。。。香艳性爱-配合默契-今夜尽享齐人之福,https://video15.balecao.com/video/20220311/57eceaee028d6df8f6688dacd005c4a2/index.m3u8
-高速快感手淫男最痴女性感西日暮里役在籍松A,https://video13.balecao.com/video/20220219/32916a86f762099b006703e4f9861181/index.m3u8
 G1806~5968598675976957698576985896759879865769856795 4,https://video34.balecao.com/video/20220709/30e3dc9655a99de1cb03c74697d1e56c/index.m3u8
 无敌清纯9分超高颜值的绝美网红脸女神-大尺度自拍及大量生活照及视频流出-身材超棒 炯炯有神的大眼睛~视频,https://video15.balecao.com/video/20220225/426b8f07139fd094f224bba10e23bcf6/index.m3u8
 【绝世粉逼甜美美女】全身皮肤白皙没有一丝赘肉 看着这么紧的小洞口一根手指就能填满-内射把她干得连续高潮发抖 酸爽的表情【精华版】 高清原版无水印,https://video15.balecao.com/video/20220226/69ef1fe19ca4854e4021f010710921ee/index.m3u8
@@ -1749,11 +1798,9 @@ FC2-PPV-2304688~FC2-PPV-2304688,https://video48.balecao.com/video/20230228/92c14
 19岁清纯校园女神下海-肤白貌美一个字嫩-激情舌吻陶醉性爱,https://video.balecao.com/video/20210913/439fdbfd8c2c2c4838f8bc1007b34978/index.m3u8
 精品推荐 【吸精小奴隶】高清源码录制黑丝3P爆菊操翻天3天5场6小时~吸精小奴隶2021-12-16 1,https://video26.balecao.com/video/20220508/39725153a1904107ac4486572e010959/index.m3u8
 新人18萝莉嫩妹！娇小身材贫乳奶子！脱下内裤超嫩小穴-全裸展示身材-按摩器震穴流出水,https://video37.balecao.com/video/20221115/4fc2c1105e1996dd64e67b1b257147f7/index.m3u8
-在火车轨道旁后入-刚好有火车经过1,https://video13.balecao.com/video/20220212/e2c57154dacefc928a4cc3ddb4e36be1/index.m3u8
 就是阿朱啊泰国旅拍大尺度写真A,https://video49.balecao.com/video/20230318/bf61128de37688e30410deadba63ac95/index.m3u8
 精品推荐 极品推特女神『冰冰儿』大尺度全裸臀摇广场舞 骚气嫩乳肥臀大长腿自慰掰穴超诱惑~BBGCW~冰冰儿广场舞 10,https://video15.balecao.com/video/20220307/435fe56c6eb34424465b83d6152f7c0b/index.m3u8
 专业操老外啪啪20210604,https://video11.balecao.com/video/20211206/3b89909b4b3fc7a42fc4469c9d7bd242/index.m3u8
-最新高价〖巨乳女神降临〗超爆网红巨乳微博女神『陈菲儿』大尺度私拍流出震撼H杯完美露脸高清720P原版1,https://video13.balecao.com/video/20220212/8f73b1833f548a3fd2efce319a47f699/index.m3u8
 【极品媚黑 总动员】沉迷黑人大屌的那些国产美女们 姑娘你真牛B 不让黑鬼亲 敢让黑鬼无套内射 高清版~【极品媚黑 总动员】沉迷黑人大屌的那些国产美女们~Asian getting Digged out by BBC in Vegas,https://video23.balecao.com/video/20220511/64aee2ea0119d9fab391486f5756c5f2/index.m3u8
 很主動的小可愛露臉伺候小哥啪啪-乖巧聽話口交大雞巴激情上位-讓小哥拎著奶頭草-道具抽插騷穴浪叫呻吟,https://video60.balecao.com/video/20230902/e2a151947a15b576caf2f31df7d6d743/index.m3u8
 超美爆乳声乐老师反差尤物【艾妮】多才多艺人前师表人后骚婊 各种场合玩弄尤物2,https://video16.balecao.com/video/20220222/9c3b8c29fe6ff5eaa8321f22dd7b5959/index.m3u8
@@ -1785,16 +1832,12 @@ STP24343 年轻小妈咪 生完孩子出来挣奶粉钱了 露脸娇小可爱 �
 【极品 淫妻母狗】高颜值淫妻『苏雪儿』母狗大尺度私拍流出 虐操肛穴 阴环淫语 高跟黑丝 高潮淫叫 高清720P原版 31,https://video15.balecao.com/video/20220225/2bf9b46d2eaf4f1b3647eb34b92a9ad2/index.m3u8
 宾馆爆操无毛逼女神摇篮上插到高潮喷水呻吟不断爽死了,https://video33.balecao.com/video/20220701/0836bd3a6e9f7d0d3fc01a496843ae9c/index.m3u8
 酒 店 潛 規 則 想 做 模 特 的 氣 質 白 領 小 姐 姐 粉 嫩 的 小 穴 一 模 就 出 水,https://video17.balecao.com/video/20220222/7e012357dc8d1ee9a39f23cd14ea8930/index.m3u8
-長 發 飄 飄 學 生 制 服 清 純 小 妹 - 滿 背 紋 身 視 覺 反 差,https://video13.balecao.com/video/20220121/a907c391a7c6392c3ec12d0873463e16/index.m3u8
-美少妇的哀羞沈总的贴身秘书,https://video13.balecao.com/video/20220122/36ad9728d96dffd29c58ef6b52a5b411/index.m3u8
-【天天来探花】极品大圈女神来袭苗条风骚温柔如水一颦一笑勾魂摄魄极品佳人场必看,https://video13.balecao.com/video/20220125/27b59f8adf8c0a82cfba159400079ea9/index.m3u8
 STP25290 颜值很高的辣妹全程露脸大秀直播-性感裸舞精彩刺激-都奶摸逼自慰特写展示-妩媚风骚呻吟可射精彩不要错过~STP25290,https://video34.balecao.com/video/20220817/9be61a2491a64ca502994911a59acee0/index.m3u8
 【瘦子探花梦幻馆】-泡良新作-19岁学生妹-中场休息再调情-大胸狂舞激情交合~瘦子-20221126233407,https://video47.balecao.com/video/20230208/b4ddb3d4d32381a9d241dda44e3fb2d5/index.m3u8
 最新价值元爆乳完具少女收官之作之豹纹高跟开档肉丝假贴落地窗插浪穴,https://video.balecao.com/video/20210920/84640f6202079582fc9768c6bc4458b2/index.m3u8
 鸡岁月啪啪20210720,https://video11.balecao.com/video/20211208/db95e7b51c6fd56d1f32c010ecb900a2/index.m3u8
 KU三通美嫩模让小哥玩双飞好刺激-黑丝高跟诱惑全程露脸舔逼轮着给大哥口交-让大哥草了菊花草骚穴淫声荡语,https://video29.balecao.com/video/20220610/9e07273afe7fd914545a92af069b815e/index.m3u8
 E奶嫩妹主播勾引外面小哥-口交足交样样精通。,https://video.balecao.com/video/20210913/9e8fe0b589f5874584121832dc1baded/index.m3u8
-蓝衣战神【上篇】牛仔裤性爱专家-一字马后入-这姿势真是绝了-肤白貌美-人骚身材好-极品尤物赚到,https://video20.balecao.com/video/20220327/80de828878d99295f88b326efb4cbe99/index.m3u8
 猥琐房东窗户缝偷窥 美女租客脱衣服准备洗澡猥琐房东窗户缝偷窥 美女租客脱衣服准备洗澡,https://video46.balecao.com/video/20230209/d7a3583a58742449ea194ea0edcadaa4/index.m3u8
 精品推荐 居家骚浪美少妇『饺子』自拍广场舞玩具情趣调教啪啪62V~JZSVIP~饺子SVIP 32,https://video15.balecao.com/video/20220225/d008782539f3f55ed9ddd115f84540b1/index.m3u8
 顶级颜值女神露出半个奶子揉捏-极品身材前凸后翘-大黑牛震动高潮出水-跪在椅子半脱下内裤-摆弄很是诱惑,https://video16.balecao.com/video/20220222/f1f2c6b3baad9669fd679b69a2ec2e16/index.m3u8
@@ -1841,7 +1884,6 @@ KU夜店气氛组渣女小可爱露脸激情大秀-深夜陪狼友发骚-诱惑�
 按摩少年啪啪内射20211001,https://video9.balecao.com/video/20211214/ca062ddf02ba94d08e13cf876d1ef239/index.m3u8
 【酒店偷拍 甄选】稀有栖檬酒店 俊俏帅哥携校花女友开房啪啪 女孩露出高潮性福的笑容 完美天堂视角 高清720P版,https://video11.balecao.com/video/20211231/1b2c5dcbd1a22b0b676b36347408d90f/index.m3u8
 2021 12 20-【用利抽插】-黑框眼镜知性范-中场换套再战-小荡妇屁事儿不少-大屌狂插干得服服帖帖只剩下浪叫,https://video15.balecao.com/video/20220311/609f6f509705a7a83bf944bce6ff2f51/index.m3u8
-漂亮小姐姐网红白皙美乳新人主播啪啪,https://video13.balecao.com/video/20220122/08affa04307b1899dd30a331caf28005/index.m3u8
 顶级大奶美乳【蜜桃臀娇娇】黑丝长腿专业脱洗澡发骚自摸！大尺度扒穴特写 极品身材让人欲罢不能,https://video10.balecao.com/video/20220102/f02dd300a5d071ae7be949b7da27fc33/index.m3u8
 20211004-【我开着拖拉机】-漂亮闺蜜来助阵-两男两女淫乱4P-俩小伙不缺钱-缺的就是这份母爱-超清画质偷拍,https://video28.balecao.com/video/20220603/8c9947973a7cb502112769cfca4389f6/index.m3u8
 出汗前杨人妻与下属工作人员粗俗雅利喝酒慰安旅行绫香岁,https://video3.balecao.com/video/20210928/869a520b3100a4afbd0da2a9a7bbfae4/index.m3u8
@@ -1878,7 +1920,6 @@ SAN-125 - 佐々木あき 早乙女ありさ 篠田あゆみ 葉月奈穂 宇佐
 大陸AV剧情：制服美女上门陪玩沙发深度游戏体验,https://video2.balecao.com/video/20210930/184fd80b91c3764d26a1b29d69d18251/index.m3u8
 风骚小女优吹箫加操逼一条龙A,https://video36.balecao.com/video/20220818/147d9617dbf338180b383c4f3b67ff11/index.m3u8
 KU大奶骚女喜欢被爆菊-开档黑丝袜-大屌怼着菊花进进出出-边操边自己揉小穴-大屁股上位骑乘-操的大奶子直晃动喊爸爸,https://video24.balecao.com/video/20220506/1d76a43dab8df4f7d1a6b9559c4dd1fa/index.m3u8
-【SPA会馆】美女强制高潮小哥的按摩手法一流给少妇弄的骚逼已湿透大鸡巴果断插入多体位蹂躏爆草真刺激,https://video13.balecao.com/video/20220120/ea4993133b97178cefca565893600af9/index.m3u8
 激震女子社玩具中西衣生化学研究年目A,https://video36.balecao.com/video/20220817/e9d6ac9412e7d57577263c8e1b2e36f2/index.m3u8
 ~坏蛋大叔~9-15~11大叔4~牙刷妹~ unwanted~20160414 213826,https://video32.balecao.com/video/20220527/9b904084493a0ef382727b08c33ad93e/index.m3u8
 双马尾极品肥臀00后嫩妹道具自慰诱惑-掏出奶子揉捏非常嫩-半脱下内裤翘起圆润美臀-掰穴特写拿出假屌进出抽插,https://video37.balecao.com/video/20221027/49b54b3dccf59c8ffbe7ec556d191452/index.m3u8
@@ -1895,7 +1936,6 @@ STAR-935古川古川狂妄的不良辣妹被抓住了弱点强制服从,https://
 短视频区一张自拍A,https://video34.balecao.com/video/20220807/ef5a73f36964b209fb2568191103e216/index.m3u8
 ~好~那兄弟~8~ unwanted~VID 20160705 201955,https://video32.balecao.com/video/20220527/1a988fd17829569e98e87bfba7b8797d/index.m3u8
 全身白嫩新人小姐姐！独自在家寂寞！情趣内衣短裙-刚刮毛的骚穴-跳蛋震动-爽的呻吟娇喘,https://video37.balecao.com/video/20221104/4cd2a5ba827037c820f179283a06330c/index.m3u8
-【剧情之王】极品女神场萝莉御姐全露脸秀发遮面掩不住可人脸蛋无套啪啪香艳佳作,https://video13.balecao.com/video/20220122/0197310988a5a69a5e79f77f18a882d3/index.m3u8
 本明日香行列出来茶店,https://video2.balecao.com/video/20210924/aa341452050645230f0f19b41c1c5290/index.m3u8
 約00后学妹酒店网袜足交擼玩肉棒口交顏射.,https://video2.balecao.com/video/20210928/ee48fad65f24ad297eaeb920af48a79a/index.m3u8
 KU【户外】渣女来袭-都市丽人到农村勾搭-大叔艳遇当头-户外做爱揉搓极品大胸-劲爆刺激-高清源码录制,https://video.balecao.com/video/20210914/417fd7328e71b5ae0650d421fa763a2e/index.m3u8
@@ -1909,7 +1949,6 @@ KU【户外】渣女来袭-都市丽人到农村勾搭-大叔艳遇当头-户外
 KU00后小萝莉三男两女5P大乱交【上篇】骑乘抽插两根JB抓手里-边操边插嘴-闺蜜加入一人一个操-后入轮流操极度淫荡,https://video24.balecao.com/video/20220505/51a2e42731f778a39eb2c93af54932b2/index.m3u8
 00后小姐姐【小婳】-跳蛋震穴-奶声奶气的萝莉音-自慰高潮-叫床很容易满足！,https://video16.balecao.com/video/20220221/d3fa93b29d2f988fa3df37f983d8e9f5/index.m3u8
 短视频区美女好啊A,https://video10.balecao.com/video/20211229/2d23102cd4ed2abc5bbb34802139ca8d/index.m3u8
-可爱的小宝贝大哥床上的性奴全程露脸口交大鸡巴主动上位无套抽插直接让大哥内射骚穴,https://video13.balecao.com/video/20220121/3894319194a0310d9e4c3178e2dd7f97/index.m3u8
 中國真實浴室偷拍女生洗澡~2374 03,https://video24.balecao.com/video/20220502/63713717a396628f93f7d8cebc92802c/index.m3u8
 吃饭遇到爱喝银耳汤的同班女同学 汤喝多了尿多 尿了半天也没尿完,https://video38.balecao.com/video/20221108/f57e4d8fdc6643e4a5ff552b3aee3c6c/index.m3u8
 【重磅推荐】网红留学生刘玥闺蜜ZIAxBITE系列P站付费视频大合集 4K超清无水原-3~1 3,https://video37.balecao.com/video/20221027/b26f6057892007231a075d986cb745fe/index.m3u8
@@ -1919,11 +1958,9 @@ KU00后小萝莉三男两女5P大乱交【上篇】骑乘抽插两根JB抓手里
 变态丈夫找几个陌生人一起干自己老婆多部合而为一,https://video2.balecao.com/video/20210924/e9de7ff6991a4c9624c5fe8ec9070c7f/index.m3u8
 22岁-172cm-艺术学院清纯女神学生妹-兼职援交-甜美乖巧-黑丝诱惑啪啪佳作,https://video16.balecao.com/video/20220227/7d654e1955671d620ef0271522337f1b/index.m3u8
 【与熟女的故事】-美艳人妻收割机-一晚上两场-从KTV到闺房温香~与熟女故事-20220816202826,https://video37.balecao.com/video/20221114/30da519e9d659ddcd33195461a73f80b/index.m3u8
-红色头发小哥哥和小妹妹【上篇】花样操逼做爱-伺候的服服帖帖-再换一个再来,https://video20.balecao.com/video/20220327/9ff18b1c17fd27657d6292073e8bb6d6/index.m3u8
 STP26585 超级嫩！婴儿肥18新人小萝莉！一脸呆萌卡哇伊-全裸展示-掰开紧致小穴-真是小骚货STP26585,https://video38.balecao.com/video/20221105/4ffc8b71ddd27791ca42b0637f5583cf/index.m3u8
 商场女厕刁钻视角偷拍长发美女嘘嘘 阴唇还是极粉的~商场女厕刁钻视角偷拍 长发美女嘘嘘 阴唇还是极粉的,https://video37.balecao.com/video/20221116/b20d7578b9b3803734c4e905c7d1827a/index.m3u8
 极品福利姬~公主裙蕾丝珠淫语自慰cuteli高潮喷水,https://video51.balecao.com/video/20230409/cf69271acd99bf74ba9312c43e9b0399/index.m3u8
-【小马丶寻花】3000网约大圈外围女神175cm岁极品大长腿小马哥大展神威干成大字型瘫软在床,https://video13.balecao.com/video/20220125/37a6f3216b5def6dae4b33b0a69b0da6/index.m3u8
 金箍棒探花_群P啪啪_20211130,https://video28.balecao.com/video/20220602/7cd7fdf9764f3fd7a44cdbadf35d5ffe/index.m3u8
 巨乳女教波多野衣A,https://video33.balecao.com/video/20220721/ac1645e4c0b0715b53cfe3ed1ea940b4/index.m3u8
 精品推荐 极品美熟女『玉玲珑』居家自拍骚气诱惑自慰慢摇广场舞超清无水印21V2小时~YLL~玲珑 21,https://video15.balecao.com/video/20220225/2b9cde2a62cd6cc555baf4655abb2fd5/index.m3u8
@@ -1945,10 +1982,8 @@ KU单亲妈妈 媚儿不清纯：今天的鲜奶你们想喝吗-挤奶当早餐�
 一群年轻嫩妹子和自己男友们露脸女上位轮换做爱啪啪-各个享受相爱的快乐,https://video37.balecao.com/video/20221114/2be64341c594f8781936fd3a21ed4df6/index.m3u8
 KU【探花】91王哥_-超清4K设备-新晋实力探花-2800网约极品-漂亮苗条小姐姐-肤白美乳,https://video.balecao.com/video/20210914/bc628ff1d4aee530b7177023932f4677/index.m3u8
 颜值超棒性感小姐姐！浴室大黑牛自慰！开档肉丝大肥臀-黑牛头部塞入-从下往上视角拍摄,https://video37.balecao.com/video/20221103/1ca07b48b678e1a5c07b9403f82b9380/index.m3u8
-清纯妹子却很骚和面具男激情啪啪,https://video13.balecao.com/video/20220122/e6997bbf79669c7e03455d90e573203d/index.m3u8
 精品推荐 网红美少女『浆果儿』『小粉猪』极致纯欲少女之间的性游戏 相互抚慰震动棒让彼此到达高潮,https://video15.balecao.com/video/20220307/db29f84f349062359b6d15ee5dab622d/index.m3u8
 去老相好家里操逼-脱下内裤就要开始-金手指猛扣-怼着骚逼就是操,https://video33.balecao.com/video/20220621/523a3635109e80f1fd67832a2eb79039/index.m3u8
-刚刚好像被他看到了很敢的大奶妹公园露出自摸好痒哦A,https://video13.balecao.com/video/20220219/1f506b0d259edfc7b42949a64058bff7/index.m3u8
 淫贱拜金女情不比金 aac,https://video26.balecao.com/video/20220508/69488ae9e1be50c7f88c35f7f7c2ad8b/index.m3u8
 出品 20210602-【小宝寻花】-最近爱上初恋脸-身姿曼妙柳腰翘臀-数一数二的超高颜值-服务态度特别好-激烈做爱太舒服了 妹子脚趾都紧缩着,https://video19.balecao.com/video/20220405/b36057ef735c8bfbfad34350f06b053e/index.m3u8
 生駒はるな口交口爆精选剪辑,https://video4.balecao.com/video/20211008/9e59a8be6e902abd96d42a52683c0966/index.m3u8
@@ -1964,7 +1999,6 @@ KU【婴儿肥肉嘟嘟像混血】激情操逼-旁边还有个解说-翘起肥�
 双马尾小萝莉激情操逼！还有个老哥旁边观战！掰开紧致小穴-扶腰后入美臀-第一视角抽插猛怼,https://video37.balecao.com/video/20221116/1d1bdd7a5e61c8721baac968b330a2c8/index.m3u8
 与日本的工作和性别,https://video6.balecao.com/video/20211112/47ba2ef77ed9ff7ed2f09ab1a7a3eb86/index.m3u8
 19岁广州人气萝莉~【京鱼儿】童颜巨乳 深夜抠B神秘男观看！~京鱼儿 20220817-001928,https://video41.balecao.com/video/20221211/5715b9a28d8ee5319c2762195d4d349b/index.m3u8
-漂亮孕妇挺着大肚子约粉丝家中无套做爱,https://video13.balecao.com/video/20220122/ba88e86b7189986b33780e113b538bf8/index.m3u8
 鸡寻花20210718,https://video11.balecao.com/video/20211208/87ab4a1783646dd1868d94defa02c108/index.m3u8
 超漂亮极品外围女自拍,https://video28.balecao.com/video/20220603/16aedaaa11975021a227665d3cf1edbe/index.m3u8
 KU【极品探花_阿西吧老表】2021_6_19-高清拍摄长裙萌妹-撩起裙子摸逼给观众看-镜头前深喉操的水声哗哗_x264_aac,https://video.balecao.com/video/20210917/3aa5765176b8376404c3542a0004211c/index.m3u8
@@ -1983,7 +2017,6 @@ SNIS-098ティアファン感謝祭 素人お宅訪問,https://video29.balecao.c
 163 原版 户外吴彦祖,https://video23.balecao.com/video/20220507/a0b5db1e99f96719b37924e4fed63c20/index.m3u8
 G奶烈焰红唇风骚小荡妇激情啪啪-眼镜小黑吸吮奶子-开档黑丝蹲着舔逼-扶着大屁股后入-抽插一脸享受,https://video8.balecao.com/video/20211122/488c4e6f82dd5dd9ec8eaee12ebf1b3c/index.m3u8
 換臉影片~Albee~808Albee SVIP,https://video17.balecao.com/video/20220226/3b11d07889381f9011cbedb9f2e61acc/index.m3u8
-专属小女友00后双马尾萝莉-被两小哥前后夹击爆操-白嫩奶子修长美腿-拉着双马后入撞击-美臀肥穴极度诱惑,https://video13.balecao.com/video/20220220/2de42635ff99267fc381fbeef3c933f1/index.m3u8
 两女三男激情啪啪大秀直播-年轻人玩的就是嗨-两个年轻骚妹被小哥揉奶抽插-欢声笑语不断浪荡呻吟精彩刺激,https://video11.balecao.com/video/20211231/0b665d7054d45be6e5480c878bb019c6/index.m3u8
 最 新 十 月 推 特 超 誘 惑 禦 姐 音 美 少 女 ▌ 耀 靈 ▌,https://video14.balecao.com/video/20220225/a555573a96cf650d25a502767f4286f2/index.m3u8
 ~坏蛋大叔~9-15~14大叔~胖~ unwanted~V60410-233628,https://video32.balecao.com/video/20220527/2a1a43c752e94d8b2d11aca75b7eeaaf/index.m3u8
@@ -1998,7 +2031,6 @@ G奶烈焰红唇风骚小荡妇激情啪啪-眼镜小黑吸吮奶子-开档黑�
 妙 Suzuha 惊人日本在凸轮上吹箫,https://video6.balecao.com/video/20211112/8669f72fec4b129acf98ba32c35b1a49/index.m3u8
 國産迷奸系列顔值超高的小姐姐被擴陰器等道具輕SM各種玩弄最後還無套內射,https://video5.balecao.com/video/20211116/d6997007eaf84343b54916eee51edca6/index.m3u8
 极品身材美乳原味妖媚KIKI黑丝袜特写自慰高清自拍视频,https://video17.balecao.com/video/20220225/0c7588ccbdc2d94340868da0947c78e4/index.m3u8
-母亲沉沦在儿子粗壮的肉棒色情度爆发极限高潮痉挛,https://video13.balecao.com/video/20220122/153770d5eccfcc559e77965775bdca4b/index.m3u8
 群P大战-屋子里的淫男荡女-中年大叔壮小伙轮草骚逼少妇-三个小时就是干-暴力抽插呻吟不断精彩不要错过,https://video16.balecao.com/video/20220221/16f42dc3a28afbc39ee2260384801c24/index.m3u8
 京激情地女子校生特集A,https://video14.balecao.com/video/20220224/6dff3489342d34f9bdc820efdeed4cdf/index.m3u8
 精品推荐 极品推特网红生物老师『闵儿』自演剧情情景诱惑自慰46部高清合集 1 ~1~黑色网袜,https://video15.balecao.com/video/20220307/b04eb04cbf733da6f780dd2acacbfbfe/index.m3u8
@@ -2019,7 +2051,6 @@ REXD-468 - 女優不詳問題児とシングルマザー 田舎においでよ,h
 91曹晓雪最新原创系列作品高清露脸之哈尔滨二人转演员 1080P完整精编版,https://video3.balecao.com/video/20211007/ed280a1eae34ccbf1825862fd1ed675a/index.m3u8
 【极品探花-赵总】20210429-返场极品御姐-肤白貌美-温柔如水-老熟人见面分外亲昵-相拥舌吻共赴巫山云雨【精华版】-高清原版无水印,https://video25.balecao.com/video/20220520/95613882543d289393d4ee735ac2552c/index.m3u8
 女神一姐位置坐稳【0咕噜0】极品小仙女单场399金币日入过万值得票价人间绝色尤物佳品,https://video5.balecao.com/video/20211123/3bec86230398533e1617c576a270167e/index.m3u8
-会所培训新人这次三个妹子【黄发妹子篇】奶子好美小逼逼真漂亮撸起小哥哥的大鸡鸡几个骚女无套轮着草浪荡呻吟淫语不断,https://video13.balecao.com/video/20220120/4415a8b33f210ada06de19b0250e5c2a/index.m3u8
 RKI-634 - 本田もも新・世界一ザーメンを大量に発射する男の超ぶっかけSEX,https://video57.balecao.com/video/20230615/48c1f35ffa6f87e62ba7b1828c239da8/index.m3u8
 91国产原创精品-x42部高清完整版合集 180203 ~高清完整版x14 3~燃情美少女 学妹长筒袜 -高清完整版,https://video19.balecao.com/video/20220406/a468857f03be90946d69d96072f9c4dc/index.m3u8
 一男两个骚女双飞啪啪大秀_翘起屁股操完一个再换另一个多种姿势操,https://video3.balecao.com/video/20210928/0493646448bd3327ef502e7e2f4203de/index.m3u8
@@ -2042,16 +2073,13 @@ NASH-879 - 宮沢優里 汐河佳奈 来まえび かなで自由 篠田ゆう�
 超美网红级颜值女神下海激情大秀-身材一流爆乳大长腿-微毛小穴闺蜜振动棒伺候-手指扣弄-说话娇喘嗲嗲,https://video19.balecao.com/video/20220322/99fa993e427194c22faac29e59f62bb9/index.m3u8
 【甄选酒店❤️私享台】未流出情趣圆床❤️纹身猛男哥约操身材不错的极品外围女『小欧阳娜娜』逼紧人骚真带劲高清720P版,https://video8.balecao.com/video/20211119/623e9c9ff61ce2dfd2eec0fbf83ebbbe/index.m3u8
 IPX-207 100%将真正的精液尽情放在西宫梦的子宫深处,https://video28.balecao.com/video/20220522/aa4ed8ea27bf2e49b976ab8b50d16a4a/index.m3u8
-短视频区妈妈被我插的淫叫连连最喜欢操妈妈了A,https://video13.balecao.com/video/20220219/bf023647eaee2e65a71f628f35450aa9/index.m3u8
 丰满身材巨乳美女！性感吊带丝袜！情趣内裤大肥臀-一对豪乳揉捏-翘起屁股摇摆-极度诱惑,https://video58.balecao.com/video/20230704/d1b107bbeb80425920938a87726478d5/index.m3u8
 公司女神级性感美女秘书聚餐喝了点酒后借口送她回去带到酒店挑逗害羞不让操,https://video5.balecao.com/video/20211115/ca60e2ac5bde955758540a529c7b808c/index.m3u8
-黄播界唐嫣爆乳小骚货【park3】搔首弄姿抹上精油假屌爆插微毛小穴爽的娇喘呻吟浪叫你们开来操我喜欢无套,https://video13.balecao.com/video/20220120/8626c79f8f143ad8861d27a20d3c4766/index.m3u8
 女朋友的女朋友,https://video34.balecao.com/video/20220709/0e712e9d714ca9360a0103eb30c0f364/index.m3u8
 ~8月底~ unwanted~VID 20160820 140450,https://video32.balecao.com/video/20220527/7d38e6164a3cf5d45ce82169db55427c/index.m3u8
 精品推荐 岛国最新无码流出『SDJS 033』SOD女子社团致谢客户大感谢祭~SDJS 033,https://video15.balecao.com/video/20220225/673a154c4ea9c81a285e1e2a83474ba0/index.m3u8
 长发正妹下海援交奶牛裝波推足交骑坐肉棒-_水手制服69互舔各种姿勢抽插內射_。,https://video2.balecao.com/video/20210928/68ccf8f07490b84fbf216b0793e2e55b/index.m3u8
 KU【我有一台拖拉机】眼镜知性人妻-黑丝大白腿-荡妇相伴这1500花的真是值得-超清设备偷拍佳作,https://video24.balecao.com/video/20220505/40708810b760248dd5067f1e0e2a0631/index.m3u8
-短视频区我就是一个喜欢搞逼逼的骚婆娘虽然我肥胖但是我逼逼紧奶子大水水多哦想日我的点赞关注起来到时候发联系方式哦A,https://video13.balecao.com/video/20220219/261e61795ba7d04aa4a69422881d7494/index.m3u8
 【真实记录姐弟啪啪】色弟弟骗姐姐开个小玩耍掀裙子翘美臀后入无套插入强操S级身材骚姐姐高清720P完整版,https://video7.balecao.com/video/20211109/10d45b85ab15c12a0e042220000ee490/index.m3u8
 『仙仙小草莓』自演父女乱伦剧情,https://video10.balecao.com/video/20220108/828979d3937375d51ab5c09ccc009290/index.m3u8
 2023-7-9【酒店偷拍小情侣】大长腿小女友-主动骑乘位扭动屁股-早上起来再干一发-站立后入爆操,https://video60.balecao.com/video/20230902/9631932a3e4c856b376426f7dbc24c97/index.m3u8
@@ -2080,7 +2108,6 @@ TOMN-070足腰ガクガク ハードピストン立ちバック 2,https://video2
 G1806~5968598675976957698576985896759879865769856795 3,https://video34.balecao.com/video/20220709/3c31e4e6af187035a73ace4a01f8c09c/index.m3u8
 STP27318 爆欲少女 最强高潮蜜汁白虎嫩鲍美少女▌Yua▌黑丝情趣内衣极度诱惑 绝美嫩鲍浆汁溢流 颤挛美妙高潮潮红上脸~STP27318,https://video39.balecao.com/video/20221124/8c6ff76bc4aae8cc83d3c7ae49ca9908/index.m3u8
 苗条模特妹子三点很粉嫩全裸手指插穴-青龙怼白虎-深喉吃屌-无套女上位白浆很多,https://video33.balecao.com/video/20220622/e6dc1614f78bf64262d268f9ed9d2cea/index.m3u8
-【李公子密探】极品肥臀眼镜妹返场翘起屁股舔屌对着镜头掰穴特写后入撞击侧入抽插猛操,https://video13.balecao.com/video/20220122/65c5686c716277566cba480662253fc7/index.m3u8
 KU黑丝细腿-00后女奴【上篇】骚气十足-爆操模特身材的女神-酒店里面高层中爬窗后入啪啪-口爆吞精,https://video29.balecao.com/video/20220610/e43a6c7758d8098562c9827c866d19d2/index.m3u8
 KU女主播白虎大神回归-网红脸妹子-无套肛交-口交啪啪操逼,https://video29.balecao.com/video/20220610/88838a85c7f61de79f09ba64882990fa/index.m3u8
 【未命名7822】-新人-五星级酒店约炮-两个风骚美人妻-逼逼粉嫩~未命名 2-20220804214114,https://video37.balecao.com/video/20221114/2ebf45dcbfd63242802983943bba4611/index.m3u8
@@ -2093,10 +2120,7 @@ HND-565 19岁地下偶像第一次受惊大量一击中出矢津田由贵,https:
 KU小兔牙超可爱学生妹-几天没播更骚了-伸进内裤自摸起来-掏出奶子紧致粉穴-洗完澡给大家扣一波-表情很投入很享受,https://video24.balecao.com/video/20220506/f68db7a45cd21e7256dec4e2b946cc54/index.m3u8
 KU【用利抽插】强烈要求返场-极品小萝莉-肛交双插-小骚逼看着很清楚-这么会玩很精彩,https://video29.balecao.com/video/20220609/3f5abc01b4dc2becfd3b1edbe1b25f33/index.m3u8
 公狗腰-后入-身材一级棒-听声音都能射！,https://video3.balecao.com/video/20210929/99894089fb6188f200297b673d90c174/index.m3u8
-【AI高清2K修复】2021411-【老王午夜探花】成都-大三学生妹-KTV里唱歌饮酒-半醉半醒之际调情脱光来一发-极品美乳-氛围满分,https://video13.balecao.com/video/20220228/2e256d9492ad0c84dfd569ee7dd08351/index.m3u8
-红色头发小哥哥和小妹妹【下篇】花样操逼做爱-伺候的服服帖帖-再换一个再来,https://video20.balecao.com/video/20220327/e5c1d34d678c701b21ce814892a5c6b3/index.m3u8
 加班草某医院风骚小护士-黑丝白大褂露脸口交大鸡巴-捧着骚奶子玩乳交-激情上位抽插让小哥草小屁股真骚啊,https://video47.balecao.com/video/20230209/da0d6a3b5991c288bbc63ca2c64b5da4/index.m3u8
-2021 11 30- 【 幹 淨 利 索 】 - 探 花 一 哥 每 天 精 彩 不 斷 - 165cm,https://video13.balecao.com/video/20220305/77af00a3e6ff59cff85b2f357d509d10/index.m3u8
 第三集周年念熟女人全出演女枚,https://video3.balecao.com/video/20211004/02a4f3738d9b37273900440663bb52b0/index.m3u8
 绿帽老公往好友胖哥杯里放春药浑身欲火要和他媳妇干逼自己在一旁观看获取高潮的快感,https://video15.balecao.com/video/20220221/853edab9133ca146a8e876f90da15df9/index.m3u8
 《台湾情侣泄密》可爱又听话的小女友还有点害羞t 1,https://video46.balecao.com/video/20230209/44ea3f9caafa8ec01e976eb25ca9e2e4/index.m3u8
@@ -2300,7 +2324,6 @@ Caribbeancom カリビアンコムPPV 011323 002 月刊 京野結衣,https://vid
 短视频区哦哦噢噢噢哦哦A,https://video47.balecao.com/video/20230210/1b0bc59c5fbe5206a9c7ed7790e50c37/index.m3u8
 【AI巨星性体验】人工智能 让女神下海不是梦之国民女神『范冰水』黑丝女友沙发怼着爆操内射 高质量AI 高清原版,https://video46.balecao.com/video/20230209/5acd312c1513d7266795750ed38c0be4/index.m3u8
 学姐玩弄我的肉棒好刺激~面对此等尤物~试问哪个男人抵挡得了~不想入非非！,https://video47.balecao.com/video/20230209/86988dfc477b72b6ab127422e8435c79/index.m3u8
-【精品TP】医院检诊盗撮 无良医生偷拍记录其脱光上衣来检查乳房的美女们第20-22系~21,https://video47.balecao.com/video/20230208/3ea0cde171d13b891b57148c91dd93c4/index.m3u8
 国产剧情沈樵扮演女鬼在野外诱惑七旬老翁来吸取阳精A,https://video47.balecao.com/video/20230209/3411ddddb318dcbd2cb56bd9269b57f5/index.m3u8
 双飞00后小妹妹！甜美卡哇伊！跪地抓起大屌吸吮-一起翘屁股看嫩穴-让妹子自摸-轮流操骚逼,https://video47.balecao.com/video/20230209/a8fc5fc87e82682d27af5a21daf24b24/index.m3u8
 气质露脸哺乳期的小阿姨家里有人偷偷的跟狼友骚一下-互动撩骚漏出坚挺的大奶子挤奶水给狼友看-自己抠逼逼,https://video46.balecao.com/video/20230209/839a58049df32581d7dba785a68c3f9c/index.m3u8
@@ -2343,7 +2366,6 @@ STP27021 170CM九头身极品美女 ！修长美腿无毛骚穴 ！骑乘位假�
 国外自拍视频售卖网站最新流出漂亮华裔美眉跪着吃大洋A,https://video42.balecao.com/video/20230101/59680a4473a3a99bc320752a5ec049e1/index.m3u8
 接待OL制服美女下班后卡拉OK被同事轮番爆操内射粉穴 前裹后操真爽 高清原版,https://video43.balecao.com/video/20230104/19ff656ebf1add498813e88e40981ba6/index.m3u8
 【换妻传媒】约一对中年夫妻4P交换-对面看着挺良家-一起穿上黑丝操-配合姿势激情猛冲,https://video38.balecao.com/video/20221108/342682457a1f59f8060420cf0377627d/index.m3u8
-这个妹子很是极品-身材好、皮肤白-关键是嫩-被肛交时粉嫩红润的屁眼一张一合-甚是养眼！,https://video37.balecao.com/video/20221115/ae8e8c583ffce9c102c8a052de875ea2/index.m3u8
 三 個 年 輕 學 生 妹 裸 貸 還 不 起 錢 被 雞 頭 強 迫 直 播 粗 暴 4P粗 暴 摳 逼 各 種 操 帶 專 職 攝 像 師,https://video43.balecao.com/video/20230104/b5e50393c8abed083f4cfe56bca3ff39/index.m3u8
 【精益求精】软萌萝莉小仙 NTR少女 clear透明 自整理精度去重【86V24 5G】~软萌萝莉小仙~软萌萝莉小仙 12,https://video37.balecao.com/video/20221027/5e9797bb7337a0d262e03a2a83d6a04e/index.m3u8
 妖艳新人妹子全裸自慰化浓妆道具自慰白虎穴-小穴干净诱人,https://video37.balecao.com/video/20221115/3a1760cc9152e83c44f759637dd3a5cc/index.m3u8
@@ -2389,10 +2411,8 @@ STP25284 气质美少妇颜值颇高-一脸都是戏-表情享受卖力口活无
 【清纯系天花板学生萌妹】放假和闺蜜赚钱大秀-双马尾一脸清纯-撩起短裙看穴-中指插入猛扣-年龄不大骚的很,https://video37.balecao.com/video/20221027/0857259a6e3f7515ed9931f6aa317667/index.m3u8
 STP25557 颜值很棒的邻家骚妹子-全程露脸与小哥激情啪啪-骑在小哥脖子上舔逼-模样好骚激情上位抽插浪荡呻吟好刺激~STP25557,https://video41.balecao.com/video/20221216/a4cda2a92bd7af41e0a91fe6966f3a8d/index.m3u8
 MIAE-275 和绝对无法出手的毫无防备的巨乳姐姐们一起睡的我 君岛 宝田,https://video34.balecao.com/video/20220720/d25ef840da76fdf030db6035dd2754d7/index.m3u8
-颜值不错妹子穿着情趣内裤自慰秀翘,https://video34.balecao.com/video/20220728/da5f3807cfb9c7d5cfb920fd8af60cc3/index.m3u8
 KU国产小骚妻【上】给小哥舔乳头-69口交大鸡巴舔逼激情啪啪-让小哥无套爆草-多体位蹂躏抽插射脖子上,https://video24.balecao.com/video/20220506/0243a48aa4f10d42c9cc42c3e2c5fe1a/index.m3u8
 颜值御姐精彩演绎-全程露脸群P淫乱-AV级大作嘴里叼两根鸡巴下面还被舔逼-让几个小哥吃奶玩逼草嘴刺激,https://video37.balecao.com/video/20221103/0b9935c7cc0c44408a66302e4486e6b6/index.m3u8
-好久不见的颜值模特女神露脸和头套男做爱-互舔69-无套草多逼,https://video37.balecao.com/video/20221115/71fbff115687fa567f7ae4f8292138fa/index.m3u8
 STP27508 极品麻花辫小妹-戴眼镜果然骚-小哥忍不住再来一炮-妹子很配合~STP27508,https://video41.balecao.com/video/20221217/8fc88c7aa8c789882120629bb8dc7d74/index.m3u8
 【18岁萝莉约闺蜜男友】-赏心悦目的少女胴体-娇嫩白皙的小屁股被来回抽插-咿咿呀呀声声销魂,https://video37.balecao.com/video/20221113/d9d44d63e5bc85adad103c4b39c82e45/index.m3u8
 STP25866 新晋良家偷拍达人-一炮不过瘾-佳人白嫩玉体-无套骚穴抽查内射-捂着逼生怕流到床上~STP25866,https://video41.balecao.com/video/20221216/b8b7f641f60ef2669f9de6d405a952e1/index.m3u8
@@ -2413,7 +2433,6 @@ STP27322 【爱的秘密】坐标上海 02后小情侣 情趣黑丝 肤白貌美
 新女神下海！极限尺度~【七彩宝贝】茄子~鸭蛋~西红柿~~迷彩宝贝 20220718-200243-429,https://video37.balecao.com/video/20221105/dee45cb3df3d3b6c368ccdd2b4940b77/index.m3u8
 STP26562 网红极品美女诺宝！全身粉嫩极度诱惑-掰开超嫩小穴-扭臀抖胸-摆弄各种姿势STP26562,https://video38.balecao.com/video/20221105/b3bd3df7c42beb00fe07b59fab4f9561/index.m3u8
 703~美乳女神Angel性爱私拍魔鬼身材美乳粉嫩小屄篇~V~1 3,https://video34.balecao.com/video/20220727/1f05a9316a4eff75ae5f3fe8c3cbbd3e/index.m3u8
-水产小美妞-露脸自己挣学费-清纯颜值天花板-自己玩炮击抽插骚穴-道具玩弄-表情好骚-呻吟可射看了秒硬,https://video37.balecao.com/video/20221104/f75eb8cba60f6ab85fc63213bb1fdde2/index.m3u8
 外表清纯女神真会玩！包臀短裙高跟鞋！口塞跳蛋双洞齐插-按住头猛吃屌-骑乘位拉手后入,https://video37.balecao.com/video/20221104/df7663112395e42c21f90270702aeb53/index.m3u8
 外表清纯又很是骚！颜值网红女神！大尺度扩阴器-针筒往里射水-手指猛扣,https://video37.balecao.com/video/20221116/503a844490f730bc1f7d498c31f2d325/index.m3u8
 马子在睡觉硬是给她摸起来操一,https://video31.balecao.com/video/20220708/b49368decb5d55297dc81a2513e6b412/index.m3u8
@@ -2510,7 +2529,6 @@ hkdoll 4k~HongKongDoll OnlyFans 26~HongKongDoll OnlyFans 26,https://video28.bale
 精品推荐 极品骚妇『云雨梦』自拍户外露出大尺度广场舞做爱自慰超清198部合集 2~2~YYM 69,https://video15.balecao.com/video/20220225/a828834ed955485cc3c075b672f2cfed/index.m3u8
 【绝美三飞操 堕落的学妹】最美三飞超体验『闺蜜三飞』04 17 纹身猛男哥轮操三个漂亮稚嫩俏学妹 高清源码无水印~guimisanfei20220415 220811,https://video23.balecao.com/video/20220511/8d95fb6a1670cad39a86c059d492feff/index.m3u8
 STP27041 G奶酒窝小姐姐 ！两个大奶露在外面揉捏 ！没穿内裤掰穴特写 说话嗲嗲 翘起双腿多毛骚穴~STP27041,https://video37.balecao.com/video/20221104/833890615192412885e3b2e1a2966d8a/index.m3u8
-护士高清医院实习护士照顾同床病人被二号床病夫内入时A,https://video13.balecao.com/video/20220220/64c6fe0a10890ed27c241e67e9e2234d/index.m3u8
 国产剧情一场英雄救美邂逅的爵士女郎A,https://video34.balecao.com/video/20220727/0e994efd9640a5c05af76ace34e3a75f/index.m3u8
 142 原版 XJJ十九岁 PP,https://video23.balecao.com/video/20220507/ed7b226e8495a9bd6f7ccad79166da4d/index.m3u8
 御姐范极品颜值女神！性感身材美腿！脱下内裤掰穴-假屌猛捅流出白浆-大黑牛震动太骚了,https://video37.balecao.com/video/20221105/2714efde9dcd89a0209af382beeca8ab/index.m3u8
@@ -2541,7 +2559,6 @@ KU【 NicoLove】 你梦中的亚洲女孩 全网首发【老板的秘书随时�
 54298-南宁18岁梦涵：你想操你问别人同不同意啊-我吃不完你的鸡巴 救命鸭太长了-屁股真是特别特别漂亮！,https://video33.balecao.com/video/20220701/4a830ff711cfc15485e3aeb7f6e0774b/index.m3u8
 【2021监控摄像头】偷拍最美性感服装店老板娘试衣完结版5部6小时超清合集~最美性感服装店老板娘~zmfzd5,https://video17.balecao.com/video/20220222/d2586d67161d01cec49733827030ba8e/index.m3u8
 草逼不带套插入要尖叫-黑丝露脸情趣诱惑小骚逼跟蒙面小哥激情啪啪-深喉口交各种抽插爆草-表情好骚真刺激,https://video19.balecao.com/video/20220322/fd205252636fd4cdabbbfe69c4580655/index.m3u8
-KU表姐爱表弟露脸激情大秀啪啪-口交足交让小哥吃着奶子抠逼舔菊花真骚-激情上位抽插跟狼友互动撩骚淫声荡语,https://video20.balecao.com/video/20220327/ad4fd0005796756193a34a285c70e4ee/index.m3u8
 最新91极品萝莉美少女▌粉色情人 ▌秘书制服死水库可御姐可萝莉 特写极嫩粉穴长枪之入直怼花蕊,https://video37.balecao.com/video/20221027/d07ba0a0fe144d138d215f2cd52d76f7/index.m3u8
 KU【网红女神】极品香港网红美少女闺蜜【马苏儿】淫魅小魔女采精-超爽狂轰白虎蜜壶-无套内射中出精浆洗礼,https://video34.balecao.com/video/20220726/9b9f59ca095880e088c7e8dd3d091504/index.m3u8
 KU淫乱大战激情群P【上】两个姐妹花露脸黑丝制服跟几个小哥啪啪直播-口交大鸡巴道具玩弄-各种爆草抽插浪荡呻吟,https://video26.balecao.com/video/20220523/84eef890547b354472126c3bbe0d5cd7/index.m3u8
@@ -2569,22 +2586,17 @@ KU淫乱大战激情群P【上】两个姐妹花露脸黑丝制服跟几个小�
 STP25297 又一个可爱漂亮的美女下海-特别开朗小小少女-多种棒棒自慰叫声超级甜美~STP25297,https://video34.balecao.com/video/20220817/4f1c915bccc904e8deaafe767b5d4f09/index.m3u8
 KU【 NicoLove】 你梦中的亚洲女孩 全网首发【性福修理工】小伙伴们久候的剧情作-高清原版无水印,https://video25.balecao.com/video/20220521/2110f167b502f513254bb0693cc75b09/index.m3u8
 糖心Vlog 巨乳女神被無套抽插 日本18醬,https://video34.balecao.com/video/20220705/c7b1732f8bdac3e186aa292807ce7039/index.m3u8
-KU清纯良家少妇露脸被小哥调教的乖巧听话-口交大鸡巴无毛骚穴让小哥各种抽插浪叫呻吟-表情诱人销魂射在嘴里,https://video20.balecao.com/video/20220327/f76d099e5dbce6e67f651070ac0c18f7/index.m3u8
 大奶美女全程全自动 身材真心不错 大奶子 无毛鲍鱼 特别大屁屁超级诱惑~大奶美女,https://video17.balecao.com/video/20220222/4a4c27f3a631041cc19fbd53d5ca60be/index.m3u8
-KU妹妹是个小淫虫【上篇】全程露脸激情大秀鸡巴要不停-让小哥吃奶玩逼道具抽插-浪叫呻吟连续干两炮射进骚穴里刺激 aac,https://video20.balecao.com/video/20220327/7e2b7f6949e6062ca8c9b096c1a975f6/index.m3u8
 0781 新作JgK2FbPs~当年很火爆的大长美腿女神-紫竹铃 最齐全视频新老图集合85V 各种变态虐阴~美腿紫竹铃拘束折磨第9次（内部管理版前置部分片头）,https://video25.balecao.com/video/20220511/93b0033a3d0e0ba66a499493df2fbb40/index.m3u8
 小哥带着短发越南妹子双人啪啪秀,https://video33.balecao.com/video/20220621/68055acb89960b7d9c6e0cf8e66f2dfa/index.m3u8
-花椒漂亮萌妹子性感女神主播萌鹿鹿美胸粉逼激情艳舞勾引啪啪被狠狠爆操次A,https://video13.balecao.com/video/20220220/ffffc004ff9cc24b8d42c7c7fef5a103/index.m3u8
 今夜钦点高颜值大奶正妹度春宵~ 这两人真是会调情呢!,https://video33.balecao.com/video/20220619/f71dd6e4c397ac5d466fa00cd37a5dec/index.m3u8
 KU国产女优李娜娜-让小哥床上蹂躏-全程露脸大奶身材完美-无毛白虎逼揉奶草逼又草嘴-呻吟可射自慰表情好骚,https://video29.balecao.com/video/20220610/eede0a9a233e3d7fbda54225f89341d9/index.m3u8
 精品推荐 网红大奶熟女『妃妃姐』定制极度骚气自慰爆菊喷水84V~WHFFJ~2019 05 06 20 54 07,https://video15.balecao.com/video/20220307/ab2b6690fa53e64daf581a98ebd0fdd5/index.m3u8
-KU姐妹花一起伺候蒙面小哥【下篇】活好不粘人吹舔吸弄搞的小哥浑身瘙痒-淫声荡语不断激情上位爆草抽插-浪叫不断,https://video20.balecao.com/video/20220327/e837caa644a93b88c581d238ddcb662e/index.m3u8
 SWAG强劲春药催情学长宾馆各种爆操,https://video16.balecao.com/video/20220228/e3ff983f4ebbbe3dc9cfb140aa2133b7/index.m3u8
 【超级清纯奶茶妹】畅快淋漓做爱无套内射 泳池旁紧身泳装 高挑身材 小小的遗憾是个平胸-小妹妹的毛太多了 泳装包不住【精华版】 高清原版无水印,https://video15.balecao.com/video/20220225/6bf0738d0b8fe6bd19d494e356817ba9/index.m3u8
 高颜值大美乳的艺校性感美女毕业前最后一次与男友激情啪啪自拍坚挺的大奶粉嫩的小穴简直是极品啊A,https://video34.balecao.com/video/20220728/6305d31920db6edcb491aa575ec9768b/index.m3u8
 KU【我有一台拖拉机】2000约腼腆小姐姐-这颜值怎么忽高忽低的-翘臀圆润-小伙暴力插逼-陶醉其中爽了,https://video25.balecao.com/video/20220519/030fe5e1d3d703b231e591008d8ff89c/index.m3u8
 ~坏蛋大叔~9-15~13大叔其他~通天~ unwanted~VID 20160827 155146,https://video32.balecao.com/video/20220527/a1bd0d96ae3dcb6798b0f8ebfd82c53d/index.m3u8
-KU【170CM美女身堪称完美蜜桃臀 park1】单腿黑丝大白屁股上下深插-头套猛男各种姿势轮着操-此女太骚连续干2小时还不满足,https://video20.balecao.com/video/20220326/2aac95200eaf6eba84cd763ac43d3513/index.m3u8
 【约啪】蜜桃美臀一线天无毛极品美穴萝莉妹纸-和小男友3小时激情大战【第一篇】-镜头对着屁股骑乘打桩-扶着小腰后入一下下撞击,https://video16.balecao.com/video/20220228/5175f9618b8536e5283105a0434d2725/index.m3u8
 众筹购得摄影大师kinbaku作品热门女模雅捷【直立一字马紧缚凌辱 强制口交训练调教】,https://video26.balecao.com/video/20220508/d9ebfa99d66e9656aad0dd8734e309ab/index.m3u8
 KU旗袍高跟蜜桃臀小少妇高颜值【上篇】露脸与小哥激情啪啪-让小哥吃奶玩逼口交大鸡巴-床上床下爆草抽插无套直接射嘴,https://video29.balecao.com/video/20220610/63814725542a0a7a48c2f918658b869c/index.m3u8
@@ -2602,7 +2614,6 @@ KU大圈高端-36E豪乳极品-忍不住先摸一把-跪地舔屌乳交-情趣�
 JUFD-949从焦急的慢活塞猛烈骑乘位大屁股女上司加濑Kanako,https://video33.balecao.com/video/20220622/c6cc055fb0b3df4aa63b54fa165d7cb3/index.m3u8
 KU大圈高端-大长腿甜美靓女-你骚不骚-骑乘掰开屁股就是操-搞得骚女直浪叫,https://video29.balecao.com/video/20220610/e5e2fb207b56bfa3c7f05eb318bc508a/index.m3u8
 ~好~那兄弟~4~ unwanted~VID 20160201 231330,https://video32.balecao.com/video/20220527/3e9de112810c0d2495ee5c69947f5f20/index.m3u8
-红唇风骚漂亮小姐姐大战头套男连干两炮 aac,https://video20.balecao.com/video/20220327/726e019cf7342c8c7ce271d0882f63fb/index.m3u8
 1小时超长挠痒,https://video28.balecao.com/video/20220603/19c879f18d3316bb7db71118637e1b13/index.m3u8
 约了一个腰细胸大的长腿妹子激情狂草嗷嗷大叫,https://video16.balecao.com/video/20220313/8ef0e7fd564673562ddce75b12e728ee/index.m3u8
 150 原版 XJj十九岁 PP,https://video23.balecao.com/video/20220507/042515d2be285f01ac11359a5dc950b6/index.m3u8
@@ -2612,7 +2623,6 @@ STP21274 刚喝完酒赶过来奔放妹子 齐逼牛仔短裙 喜欢慢慢玩 �
 KU【夜夜丶换新娘】约操巨乳良家骚女-掏出大奶子揉捏-埋头舔逼-后入爆操搞得直浪叫,https://video29.balecao.com/video/20220609/5670404ab4c6d3ece792378f6d279405/index.m3u8
 客厅外有人,https://video33.balecao.com/video/20220630/0293ab2579020a0556224510d229bdf4/index.m3u8
 125umd00690 谷原希美SUPER BEST,https://video33.balecao.com/video/20220630/31fe7324fa0be1dc7233f4f5d1ea43a9/index.m3u8
-黑丝女仆露脸小野猫跟勾引小哥激情啪啪-对着镜头舔鸡巴让狼友看她的骚表情-各种体位爆草抽插表情好骚啊,https://video20.balecao.com/video/20220327/cba1f911003aae43568eba27fe05a249/index.m3u8
 KU【探花唐先生】全网唯一商K达人-极品大胸御姐-随着歌声-舞动双乳-画面香艳-氛围满分激情啪啪-超清修复版,https://video25.balecao.com/video/20220519/40bb132fe08a49889395c4ff6cb19671/index.m3u8
 高颜质空姐情欲影片流出没看过还不相信她那么骚A,https://video36.balecao.com/video/20220818/4fd66c5764ebccdc9ff3cb5fe5b967d4/index.m3u8
 91新人wushirenfeijzj -酒店约炮打高尔夫认识的大奶子少妇 巨乳 黑丝 露脸完整版,https://video31.balecao.com/video/20220527/59ce368b57d4bc665ca4121b9ab036a8/index.m3u8
@@ -2634,7 +2644,6 @@ KU超级骚气质美女米拉-炮友加入69深喉大屌-主动骑乘爆操-爸�
 兄弟俩交换女友 小妹害羞说JB比男友的大,https://video34.balecao.com/video/20220728/b19e5a1179dff5f119800b0cbc45168c/index.m3u8
 超漂亮甜美小姐姐-情趣耳朵和炮友操逼-蹲着深喉插嘴-穿上开档肉丝-特写猛怼多毛小骚逼,https://video33.balecao.com/video/20220622/73e300c22371c99712d52f4ff6b9ca08/index.m3u8
 KU长发妹子被口罩男一顿后入无套操逼-特写大鸡巴插入逼逼-超级诱惑,https://video24.balecao.com/video/20220506/dd67bd28dd0ff2304b43b6b4bb8dd1b6/index.m3u8
-KU【冒险丶雷探长】大长腿小姐姐-抓着大屌吸吮-主动骑乘爆插-怼着屁股撞击受不了,https://video34.balecao.com/video/20220726/101e06784807e554d1d7f7f8fbaa0c84/index.m3u8
 【流出】极品骚情良家少妇啪啪的日常流出-各式制服诱惑-口技一流 857P 25V 无水原档完整版 ~m13390~v~IMG 3960,https://video24.balecao.com/video/20220502/246f8ffb897fe46bd6470f25546bd9a1/index.m3u8
 ~8月~643951882于文欣~ unwanted~VID 20160816 212154,https://video32.balecao.com/video/20220527/38eadaef862970a18c4b5f2bde264b73/index.m3u8
 精彩4P【下篇】年轻露脸的漂亮妹子不但被两小哥玩弄-还被好姐姐玩奶子-道具玩骚穴-激情上位各种抽插嘴里吃鸡巴,https://video25.balecao.com/video/20220511/6ec1b9633985d9b5f847b52001fa7251/index.m3u8
@@ -2647,7 +2656,6 @@ KU【冒险丶雷探长】大长腿小姐姐-抓着大屌吸吮-主动骑乘爆�
 91涵菱 10,https://video28.balecao.com/video/20220522/9e45de937d39161608de70521218d697/index.m3u8
 KU真实偷情-28岁-良家人妻-温柔体贴-婉约与风骚并存-超清画质-女人味十足-佳作必看,https://video29.balecao.com/video/20220610/cbbb4dfca3b70ae6779f0c51071f5daf/index.m3u8
 富美子之足,https://video34.balecao.com/video/20220720/20ba33716017aae7fc87d7afaa74a883/index.m3u8
-KU激情4P姐妹花淫乱场面刺激撩人【下篇】两个大哥享受骚逼一起的舔鸡巴舔乳头服务-主动上位抽插让两小哥轮草互动,https://video20.balecao.com/video/20220327/3ecd35f66ae1fc257a029ce90a1dad16/index.m3u8
 超嫩小萝莉刚满18双马尾卡哇伊-娇小身材撩起衣服揉捏贫乳-脱下内裤掰穴特写-超嫩紧致没怎么被开发过,https://video16.balecao.com/video/20220222/37214ebc3f35107291f57e71a66319a9/index.m3u8
 hello kiti 主题酒店私约网友见面后迫不及待的干了起来,https://video29.balecao.com/video/20220609/a7e38e1f7cf4a638da200bc9dfdcb8f9/index.m3u8
 【AI巨星性体验】人工智能 让女神下海不是梦之大幂女神『杨幂』超凡性爱体验 被黑人大屌爆操翻白眼 高清原版~杨幂 被黑人插直翻白眼 第二段,https://video17.balecao.com/video/20220225/25bb6ff023c6f2ffe835c8b372680404/index.m3u8
@@ -2676,7 +2684,6 @@ G1302~91涵菱 6,https://video34.balecao.com/video/20220720/efc3d6b929e0f6319593
 ~坏蛋大叔~9-15~11大叔4~牙刷妹~ unwanted~20160416 204014,https://video32.balecao.com/video/20220527/0bfc96e47278f3f2d3164abc51f7abbe/index.m3u8
 去良家少妇家里操逼-猛扣骚逼水声哗哗-扶大屁股后入-太激情啪啪大声,https://video33.balecao.com/video/20220619/e60031795550750a77e10ba6a49ff81b/index.m3u8
 ~坏蛋大叔~9-15~12大叔~丝袜妹~ unwanted~VID 20160629 095649 1,https://video32.balecao.com/video/20220527/2e27c97aa133503ab6723ba94b00fd8c/index.m3u8
-这大嫂真的好 坏蛋 打我屁屁 上下两张嘴服侍到位 没事 你们先吃 我呆会回来 电话来了也不停下 河南话~这大嫂真的好啊 上下两张嘴服侍到位,https://video13.balecao.com/video/20220223/114fb581c98b64b776d6ec4ddb939b3f/index.m3u8
 126 原版 瓜瓜JJ,https://video23.balecao.com/video/20220507/a4757cd6943788770c7a21c71bda8ee8/index.m3u8
 159 原版 Avove PP,https://video23.balecao.com/video/20220507/662d409d66fd12ba2126066a670c2743/index.m3u8
 清纯系少妇欲望沦陷-展示好身材自慰骚穴沦陷在小哥的抽插快感中-口交大鸡巴69舔逼各种爆草-特写展示骚穴,https://video33.balecao.com/video/20220622/19e1333ebd4d87db46251c7a2ccda1f0/index.m3u8
@@ -2725,7 +2732,6 @@ STP25305 逼都让你抠烂了-用嘴伺候半天小哥换来小哥无情抠逼-
 【某盘流出】模特成长史-见证了一位魔鬼身材美女-从兼职模特到人妻之路-火车卧铺-杭州景点-3P群交-精彩人生全纪录~视频~出品 13,https://video24.balecao.com/video/20220502/4422543321f581ec35748077b886cbac/index.m3u8
 “叔叔你的好大~”长发妹忍不住就舔上去了~,https://video34.balecao.com/video/20220709/46a26dff824955fdc7acfd95db0da957/index.m3u8
 口活不错的白嫩美少妇宝宝心安吃完鸡巴被炮友后人式啪啪A,https://video15.balecao.com/video/20220221/4456e0297009cbc442089bc003d508c4/index.m3u8
-颜值不错萌妹子蓝色情趣装手指扣逼跳蛋加玻璃棒抽插自慰出白浆,https://video13.balecao.com/video/20220212/5aaa29d4b5512667859dbd6b11b41ed2/index.m3u8
 精品推荐 居家骚浪美少妇『饺子』自拍广场舞玩具情趣调教啪啪62V~JZSVIP~饺子SVIP 20,https://video15.balecao.com/video/20220225/4a597a06e09ec8964d1cd0a231c9544e/index.m3u8
 高颜值气质丰满援交妹子-服务好-干累了给按摩。,https://video34.balecao.com/video/20220818/d0f0def16ddbd760e4a1a7c4ea1cff56/index.m3u8
 精选熟女美妇系列 宾馆约熟女阿姨 操的阿姨面红耳赤很是满意 就是还有点放不开不让拍脸~宾馆约熟女阿姨,https://video15.balecao.com/video/20220307/00c7d0da5f6e8d2607d3f92a2aa7cd62/index.m3u8
