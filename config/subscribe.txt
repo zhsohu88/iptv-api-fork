@@ -1,15 +1,13 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-# https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-# https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-# https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-# https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-# 国外
-# https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+# 国外 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+#https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+#https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+#https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+#https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+#https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
@@ -51,10 +49,12 @@ http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 # https://ibf.tw/Egjgn
 # 易看电视
 http://117.72.68.25:9230/latest.txt
-# 星火电视
+# 野火电视
 http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
 # 彩直港澳台(黑软顶配直播)成人
-https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh
+# https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh
+# 彩直港澳台(黑软顶配直播)成人-黑软19花
+# https://fel.forxhr.top:2022/down.php/175937208911848ac3330dc773ae198d.txt&3344520
 # http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt            # 小苹果，蜗牛线路[测试2]
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/JJdoudizhu.txt    # 自己的JJ斗地主
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/dalian.txt       # 大连
