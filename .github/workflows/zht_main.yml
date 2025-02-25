@@ -1,0 +1,107 @@
+name: '更新计划'     # 'Update schedule' # 工作流名称：更新计划
+
+on: # 触发条件
+  schedule: # 定时触发
+    - cron: '0 4 * * *' # 每天北京时间12点触发12-8=4
+    # - cron: '0 10 * * *' # 每天10:00触发
+  workflow_dispatch: # 手动触发
+    # branches: # 分支配置
+      # - master # 主分支
+      # - dev # 开发分支
+      # - gd # gd分支
+jobs: # 任务配置
+  push: # 任务名称：push
+    runs-on: ${{ matrix.operating-system }} # 运行环境：操作系统矩阵中的操作系统
+    timeout-minutes: 120 # 超时时间：120分钟
+    strategy: # 策略配置
+      matrix: # 矩阵配置
+        operating-system: [ 'ubuntu-20.04' ] # 操作系统：Ubuntu 20.04
+    steps: # 步骤配置
+      - name: Set branch name # 步骤名称：设置分支名称
+        id: vars # 步骤ID：vars
+        run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV # 设置环境变量BRANCH_NAME
+
+      - uses: actions/checkout@v3 # 使用actions/checkout@v3操作检查代码
+        with: # 参数配置
+          ref: ${{ env.BRANCH_NAME }} # 分支引用：环境变量BRANCH_NAME
+
+      - name: Run with setup-python 3.13 # 步骤名称：设置Python 3.13环境
+        uses: actions/setup-python@v4 # 使用actions/setup-python@v4操作
+        with: # 参数配置
+          python-version: '3.13' # Python版本：3.13
+          update-environment: true # 更新环境变量
+          cache: 'pipenv' # 缓存pipenv依赖
+
+      - name: Check open_driver config # 步骤名称：检查open_driver配置
+        id: check_driver # 步骤ID：check_driver
+        run: | # 运行命令
+          echo "OPEN_DRIVER=$(python -c '
+          try:
+            from utils.config import config # 从utils.config导入config
+            open_driver = config.open_driver # 获取open_driver配置
+          except:
+            open_driver = False # 如果获取失败，设置为False
+          print(open_driver)')" >> $GITHUB_ENV # 打印open_driver并写入环境变量
+      - name: Set up Chrome # 步骤名称：设置Chrome浏览器
+        if: env.OPEN_DRIVER == 'True' # 条件：如果环境变量OPEN_DRIVER为True
+        uses: browser-actions/setup-chrome@latest # 使用browser-actions/setup-chrome@latest操作
+        with: # 参数配置
+          chrome-version: stable # Chrome版本：稳定版
+      - name: Download chrome driver # 步骤名称：下载Chrome驱动
+        if: env.OPEN_DRIVER == 'True' # 条件：如果环境变量OPEN_DRIVER为True
+        uses: nanasess/setup-chromedriver@master # 使用nanasess/setup-chromedriver@master操作
+      - name: Install FFmpeg # 步骤名称：安装FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg # 运行命令：更新包列表并安装FFmpeg
+      - name: Install pipenv # 步骤名称：安装pipenv
+        run: pip3 install --user pipenv # 运行命令：安装pipenv
+      - name: Install dependecies # 步骤名称：安装依赖
+        run: pipenv --python 3.13 && pipenv install --deploy # 运行命令：设置Python版本为3.13并安装依赖
+      - name: Install selenium # 步骤名称：安装selenium
+        if: env.OPEN_DRIVER == 'True' # 条件：如果环境变量OPEN_DRIVER为True
+        run: pipenv install selenium # 运行命令：安装selenium
+      - name: Update # 步骤名称：更新
+        run: pipenv run dev # 运行命令：执行开发环境
+      - name: Commit and push if changed # 步骤名称：如果有更改则提交并推送
+        run: | # 运行命令
+          git config --local user.email "github-actions[bot]@users.noreply.github.com" # 配置本地Git用户邮箱
+          git config --local user.name "github-actions[bot]" # 配置本地Git用户名
+          git diff # 显示工作区与暂存区的差异
+          final_file=$(python -c ' # 获取最终文件路径
+          try: 
+            from utils.config import config # 从utils.config导入config
+            final_file = config.final_file # 获取final_file配置
+          except: 
+            final_file = "output/result.txt" # 如果获取失败，设置默认路径
+          print(final_file)')
+          final_m3u_file=$(python -c ' # 获取最终M3U文件路径
+          try: 
+            from utils.config import config # 从utils.config导入config
+            import os # 导入os模块
+            final_file = config.final_file # 获取final_file配置
+            final_m3u_file = os.path.splitext(final_file)[0] + ".m3u" # 获取M3U文件路径
+          except: 
+            final_m3u_file = "output/result.m3u" # 如果获取失败，设置默认路径
+          
+          print(final_m3u_file)')
+          if [[ -f "$final_file" ]]; then # 如果最终文件存在
+            git add -f "$final_file" # 强制添加最终文件到Git
+          fi
+          if [[ -f "$final_m3u_file" ]]; then # 如果最终M3U文件存在
+            git add -f "$final_m3u_file" # 强制添加最终M3U文件到Git
+          fi
+          if [[ -f "output/cache.pkl" ]]; then # 如果缓存文件存在
+            git add -f "output/cache.pkl" # 强制添加缓存文件到Git
+          fi
+          if [[ -f "output/sort.log" ]]; then # 如果排序日志文件存在
+            git add -f "output/sort.log" # 强制添加排序日志文件到Git
+          fi
+          if [[ -f "updates/fofa/fofa_hotel_region_result.pkl" ]]; then # 如果fofa酒店区域结果文件存在
+            git add -f "updates/fofa/fofa_hotel_region_result.pkl" # 强制添加fofa酒店区域结果文件到Git
+          fi
+          if [[ -f "updates/fofa/fofa_multicast_region_result.pkl" ]]; then # 如果fofa多播区域结果文件存在
+            git add -f "updates/fofa/fofa_multicast_region_result.pkl" # 强制添加fofa多播区域结果文件到Git
+          fi
+          if ! git diff --staged --quiet; then # 如果有已暂存的更改
+            git commit -m "Github Action Auto Updated" # 提交更改，提交信息为“Github Action Auto Updated”
+            git push --force # 强制推送更改
+          fi
