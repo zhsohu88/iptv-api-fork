@@ -2,9 +2,3 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/g37hcg3.m3u8$!
-大连生活,http://live.dltv.cn/JzcFkF4/500/j34hzgF.m3u8$!
-大连文体,http://live.dltv.cn/hxT7Fc3/500/z2ohxg7.m3u8$!
-大连影视
-大连少儿
-大连购物,http://live.dltv.cn/N4S4uAj/500/26le4g4.m3u8$!
