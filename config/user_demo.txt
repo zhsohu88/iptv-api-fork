@@ -747,6 +747,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870$!
 彩虹电影,http://suo.im/9sOLD$!
 香蕉台,http://s.mrw.so/94E7W$!
 惊艳台,http://suo.im/8odLv$!
+激情9频道,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8$!
 粗暴,http://live.redtraffic.xyz/rough.m3u8$!
 粗暴,http://cdn.adultiptv.net/rough.m3u8$!
 粗暴,http://live.adultiptv.net/rough.m3u8$!
@@ -773,7 +774,6 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870$!
 合集,http://live.redtraffic.xyz/compilation.m3u8$!
 合集,http://cdn.adultiptv.net/compilation.m3u8$!
 合集1,http://live.adultiptv.net/compilation.m3u8$!
-激情,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8$!
 金发,http://live.redtraffic.xyz/blonde.m3u8$!
 金发,http://cdn.adultiptv.net/blonde.m3u8$!
 金发,http://live.adultiptv.net/blonde.m3u8$!
