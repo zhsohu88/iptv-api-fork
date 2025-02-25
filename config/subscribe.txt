@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/kr.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/kr.m3u
 # 成人
 # https://raw.githubusercontent.com/zhsohu88/iptv_ipv4_live_2/main/chs.txt
 # 月光宝盒
