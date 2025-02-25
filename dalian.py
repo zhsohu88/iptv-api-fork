@@ -41,7 +41,7 @@ def fetch_playlist_url():
             continue
         playlist_url = match.group(1).replace('\\/', '/')  # 替换地址中的转义斜杠
         output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
-    with open("config/local.txt", "w") as file:  # 将结果写入文件
+    with open("config/user_local.txt", "w") as file:  # 将结果写入文件
         file.write("\n".join(output_lines))
 
 if __name__ == "__main__":
