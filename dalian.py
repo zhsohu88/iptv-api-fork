@@ -43,19 +43,29 @@ def fetch_playlist_url():
         output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
 
     # 获取指定地址的播放列表并添加新的频道
-    additional_channels = {
-        "CCTV1": "CCTV1",
-        "CCTV2": "CCTV2",
-        "CCTV3": "CCTV3",
-        "CCTV4": "CCTV4",
-        "CCTV5": "CCTV5"
-    }
+    additional_channels = [
+        "彩虹电影",
+        "香蕉",
+        "惊艳",
+        "正式松視1臺",
+        "正式松視2臺",
+        "正式松視3臺",
+        "正式松視E臺",
+        "正式松視K臺",
+        "正式松視彩虹电影",
+        "正式松視潘多臺",
+        "正式奧視驚艷臺",
+        "正式奧視香蕉臺",
+        "正式松視开心臺",
+        "正式松視极限臺"
+
+    ]
     new_source_url = "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh"
     try:
         response = requests.get(new_source_url, headers=headers)  # 发送HTTP GET请求获取新源地址列表
         if response.status_code == 200:  # 如果请求成功
             info = response.text  # 获取响应的文本内容
-            for channel_name in additional_channels.keys():  # 遍历每个新的频道名称
+            for channel_name in additional_channels:  # 遍历每个新的频道名称
                 match = re.search(f'{channel_name},(.*?)$', info, re.MULTILINE)  # 使用正则表达式提取播放地址
                 if match:  # 如果匹配到播放地址
                     playlist_url = match.group(1)  # 获取播放地址
