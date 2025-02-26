@@ -1,4 +1,4 @@
-📺央视频道-#genre#
+📺央视频道,#genre#
 CCTV1,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 CCTV1,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8$!
@@ -99,7 +99,7 @@ CGTN法语,https://0472.org/hls/cgtnx.m3u8$!
 CGTN西班牙语
 CGTN纪录,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225602/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3$!
 
-📡卫视频道-#genre#
+📡卫视频道,#genre#
 安徽卫视,http://39.134.65.141/PLTV/88888888/224/3221225925/1.m3u8$!
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8$!
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8$!
@@ -225,7 +225,7 @@ CGTN纪录,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chi
 重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8$!
 香港卫视
 
-☘️辽宁频道-#genre#
+☘️辽宁频道,#genre#
 辽宁北方
 辽宁影视剧
 辽宁教育
@@ -239,7 +239,7 @@ CGTN纪录,http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chi
 大连影院
 大连少儿
 
-🎬电影频道-#genre#
+🎬电影频道,#genre#
 CHC动作电影
 CHC高清电影
 CHC家庭影院
@@ -323,7 +323,7 @@ HK港鬼片
 贝爷欧美②厅
 贝爷欧美IMAX厅
 
-🏀体育频道-#genre#
+🏀体育频道,#genre#
 咪咕体育1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8$!
 咪咕体育2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8$!
 咪咕体育3,http://39.135.134.67/000000001000/3000000001000008001/index.m3u8$!
@@ -430,7 +430,7 @@ JSPORTS2
 JSPORTS3
 JSPORTS4
 
-🦄其他频道-#genre#
+🦄其他频道,#genre#
 爱电竞
 爱谍战
 爱动漫
@@ -593,7 +593,7 @@ JSPORTS4
 中国天气
 中华美食
 
-🦆韩国频道-#genre#
+🦆韩国频道,#genre#
 ABN TV
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$!
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8$!
@@ -721,7 +721,7 @@ Zarok TV Sorani
 РТР Планета Азия
 耀才财经
 
-🐸娱乐频道-#genre#
+🐸娱乐频道,#genre#
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$!
 JJ斗地主,http://111.20.21.163/live/488743rAHScWyyII_2000.flv?302_type=cold_aggr&_session_id=1343553445.n.cn-z9w724.mt5f_1421068&cac=1&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Ftc-tct.douyucdn2.cn%2Fdyliveflv1a%2F488743rAHScWyyII_2000.flv%3FwsAuth%3Dfd695c444eeee99cc6122ed396c805ba%26token%3Dcpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901%26logo%3D0%26expire%3D0%26did%3Dd010b07dcb997ada9934081c873542f0%26origin%3Dtct%26vhost%3Dplay2&logo=0&manage_ip=&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-z9w724.mt5f.nss&redirect_from_ip=183.201.192.138&redirect_to=fc.cn-h58z42&redirect_to_ip=111.20.21.163&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&vhost=tc-tct.douyucdn2.cn&wsAuth=fd695c444eeee99cc6122ed396c805ba$!
 JJ斗地主,http://211.101.234.24:68/公众号猫月牙/douyu.php?id=488743$!
@@ -739,7 +739,7 @@ HL斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=7244870$!
 云戈宝电竞,http://www.52sw.top:678/play/huya.php?id=406324$!
 天元围棋
 
-💎直播🔞_9-#genre#
+💎直播🔞_9,#genre#
 彩虹电影,http://suo.im/9sOLD$!
 香蕉台,http://s.mrw.so/94E7W$!
 惊艳台,http://suo.im/8odLv$!
@@ -888,7 +888,7 @@ Blowjob,http://live.mycamtv.com/blowjob.m3u8$!
 正式松視开心臺
 正式松視极限臺
 
-💎日韩🔞_9-#genre#
+💎日韩🔞_9,#genre#
 (情趣红娘自慰成癮),https://vip1.slbfsl.com/20221214/pAVqCU4s/index.m3u8$!
 (安娜貝干)用純愛愛來打破詛咒part-2,https://vip1.slbfsl.com/20221214/3639yVto/index.m3u8$!
 开操黑丝极品白虎鲍鱼！bb紧嫩又好操！,https://vip1.slbfsl.com/20230106/VweJ1E8U/index.m3u8$!
@@ -1373,7 +1373,7 @@ Nasty Niagara Iguigu 钢棒 Hinamaru An Shino,https://surrit.com/963b3c61-3cf8-4
 哪个是情色，我姐还是你姐，换个阴道射精干吗？ Atomi Shuri Abe Mi,https://surrit.com/52f697ed-79eb-44df-8164-ec095d4b99bf/720p/video.m3u8$!
 女友不在的几天被她的小恶魔妹妹枫可怜勾引疯狂做爱拍下影片-明望萌衣-Miss,https://surrit.com/9cd80b94-306d-4a73-8b40-9ccff8e5744b/720p/video.m3u8$!
 
-💎欧美🔞_9-#genre#
+💎欧美🔞_9,#genre#
 仙女棒帮我获得史上最强烈高潮体验！——MINI DIVA,https://vip4.lbbf9.com/20250208/BqaDcxg0/index.m3u8$!
 夏日惊艳淋浴,https://vip4.lbbf9.com/20250208/5vTyCexR/index.m3u8$!
 娴熟姐姐给后弟的害羞朋友吹喇叭（抱歉啦老弟),https://vip4.lbbf9.com/20250208/KC9XQ1Ow/index.m3u8$!
@@ -1885,7 +1885,7 @@ SolaZola.E46.Cant.Stop.Suck.This.Sweet,https://vip3.lbbf9.com/20241105/HaYHKwly/
 在客厅把4个妹妹一起上了 ‘家庭幻想系列’ S：E8的!,https://vip3.lbbf9.com/20241217/3lZIjivI/index.m3u8$!
 向导在丛林中把蛇毒从肉棒中吮吸出来并救了他的命,https://vip3.lbbf9.com/20241105/s3q4DaGb/index.m3u8$!
 
-💎国产🔞_9-#genre#
+💎国产🔞_9,#genre#
 游戏队长20210623,https://video11.balecao.com/video/20211208/adfee582b54f891188bdd3bf3a325b28/index.m3u8$!
 高颜值黑丝御姐全程露脸伺候大哥激情啪啪~高颜值黑丝御姐全程露脸伺候大哥激情啪啪,https://video34.balecao.com/video/20220728/47368db68d33cce266dd2f0b9fa8fefa/index.m3u8$!
 大妞范天津muse 1507729455069900802 1280x720,https://video33.balecao.com/video/20220701/cf74801c1f04b0772526b9ad1b813658/index.m3u8$!
@@ -2387,7 +2387,7 @@ IPX-207 100%将真正的精液尽情放在西宫梦的子宫深处,https://video
 青年山东小夫妻卧室中春宫图大战被多种姿势性爱玩弄深喉无套后入超多花样表情那叫一脸享受展现经典蝴蝶逼~,https://video41.balecao.com/video/20221216/310961c56ccda616ea6eb2f2a8589a4b/index.m3u8$!
 专找老阿姨玩啪啪20210714,https://video11.balecao.com/video/20211206/d981cc286e72abf63dae9e8eef44bc65/index.m3u8$!
 
-💎女同🔞_9-#genre#
+💎女同🔞_9,#genre#
 忏悔与赎罪,https://v2024.fhbbff.com/20241202/WlsQVlTO/index.m3u8$!
 颤抖的高潮,https://v2024.fhbbff.com/20241202/HhgTHI13/index.m3u8$!
 尝起来像饼干一样甜,https://v2024.fhbbff.com/20241202/bROWls8A/index.m3u8$!
