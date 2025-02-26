@@ -58,7 +58,6 @@ def fetch_playlist_url():
         "正式奧視香蕉臺",
         "正式松視开心臺",
         "正式松視极限臺"
-
     ]
     new_source_url = "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh"
     try:
