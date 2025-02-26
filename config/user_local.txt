@@ -2,9 +2,14 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/q7tfb0I.m3u8$!
-大连生活,http://live.dltv.cn/JzcFkF4/500/t4Jfc0k.m3u8$!
-大连文体,http://live.dltv.cn/hxT7Fc3/500/9omfT0F.m3u8$!
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/827hcs3.m3u8$!
+大连生活,http://live.dltv.cn/JzcFkF4/500/b24hzsF.m3u8$!
+大连文体,http://live.dltv.cn/hxT7Fc3/500/r1ohxs7.m3u8$!
 大连影视
 大连少儿
-大连购物,http://live.dltv.cn/N4S4uAj/500/c3lNfS0.m3u8$!
+大连购物,http://live.dltv.cn/N4S4uAj/500/u4le4s4.m3u8$!
+CCTV1,http://live.20191209.xyz:5888/migu/608807420.m3u8?migutoken=dbbfe543c7c4c7ed579de25397dd24f2e623f12ba7e689157dbb5d38766c708d952724ce7bb106cf16ff7c8ca7d084e47a453f46c4b28e00801c566d917892dddf314158c67665d99baedc2df3$!
+CCTV2,http://live.20191209.xyz:5888/migu/631780532.m3u8?migutoken=d62905efd474fd52328b42bd4e981547b2b36f1adda464af1c544ef44bdd1d566c2b5ec4dd977b5b3cf46ed2ba556ca34f1abfa269526b72976447ca17d7b5dcb4b05dacdd5f0b11a09a64ba52$!
+CCTV3,http://live.20191209.xyz:5888/migu/624878271.m3u8?migutoken=8fc9dced1ba6c84e3b6ab7d4eda1d316cb556788f306ba2439e44c2f86332a7bacc23aa35ea9b75b455bd78c363c6a37c67f11fd291a11b0b974d53e56530d8d87dc537e4dbfe39e1cb57dafc0$!
+CCTV4,http://live.20191209.xyz:5888/migu/631780421.m3u8?migutoken=5904ecbf1007fe35f7888d71f0b90c7035b522276def1d6843daf00249231b99fa600057e1d014358460a507efeb45bdc93dc1f1d7a6f0745f3c36290f254e18c24e9470eb56f111eb1f638f21$!
+CCTV5,http://live.20191209.xyz:5888/migu/641886683.m3u8?migutoken=5ed22046d516bd3c5352bbfd0a16e9d3b408d69c42817fbafb38247c96966d3348cec0380718844bc906a833a9fe626902000785b5a7eede33b45cc4eb93f4174e5dd94c031c6e64c7907a5307$!
