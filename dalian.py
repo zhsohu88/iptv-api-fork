@@ -42,32 +42,19 @@ def fetch_playlist_url():
         playlist_url = match.group(1).replace('\\/', '/')  # 替换地址中的转义斜杠
         output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
 
-    # 获取指定地址的播放列表并添加新的频道
-    additional_channels = [
-        "彩虹电影",
-        "香蕉",
-        "惊艳",
-        "正式松視1臺",
-        "正式松視2臺",
-        "正式松視3臺",
-        "正式松視E臺",
-        "正式松視K臺",
-        "正式松視彩虹电影",
-        "正式松視潘多臺",
-        "正式奧視驚艷臺",
-        "正式奧視香蕉臺",
-        "正式松視开心臺",
-        "正式松視极限臺"
-    ]
+    # 获取指定地址的播放列表并添加新的频道，取指定分组的频道
+    target_groups = ["松视正版", "麻豆传媒"]  # 指定需要的分组名称
     new_source_url = "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh"
     try:
         response = requests.get(new_source_url, headers=headers)  # 发送HTTP GET请求获取新源地址列表
         if response.status_code == 200:  # 如果请求成功
             info = response.text  # 获取响应的文本内容
-            for channel_name in additional_channels:  # 遍历每个新的频道名称
-                match = re.search(f'{channel_name},(.*?)$', info, re.MULTILINE)  # 使用正则表达式提取播放地址
-                if match:  # 如果匹配到播放地址
-                    playlist_url = match.group(1)  # 获取播放地址
+            current_group = None  # 当前处理的分组名称
+            for line in info.splitlines():  # 遍历每行内容
+                if ",#genre#" in line:  # 如果是分组名称行
+                    current_group = line.split(",")[0]  # 提取分组名称
+                elif current_group in target_groups and "," in line:  # 如果当前分组是需要的分组且是频道行
+                    channel_name, playlist_url = line.split(",", 1)  # 分割频道名称和播放地址
                     output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
     except requests.exceptions.RequestException as e:
         print(f"Failed to fetch additional channels: {new_source_url}")  # 捕获请求异常
