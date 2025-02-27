@@ -43,7 +43,7 @@ def fetch_playlist_url():
         output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
 
     # 获取指定地址的播放列表并添加新的频道，取指定分组的频道
-    target_groups = ["松视正版", "麻豆传媒"]  # 指定需要的分组名称
+    target_groups = ["分组名称1", "分组名称2"]  # 指定需要的分组名称
     new_source_url = "https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh"
     try:
         response = requests.get(new_source_url, headers=headers)  # 发送HTTP GET请求获取新源地址列表
@@ -53,7 +53,7 @@ def fetch_playlist_url():
             for line in info.splitlines():  # 遍历每行内容
                 if ",#genre#" in line:  # 如果是分组名称行
                     current_group = line.split(",")[0]  # 提取分组名称
-                elif any(group in current_group for group in target_groups) and "," in line:  # 如果当前分组包含需要的分组名称且是频道行
+                elif current_group and any(group in current_group for group in target_groups) and "," in line:  # 如果当前分组包含需要的分组名称且是频道行
                     channel_name, playlist_url = line.split(",", 1)  # 分割频道名称和播放地址
                     output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
     except requests.exceptions.RequestException as e:
