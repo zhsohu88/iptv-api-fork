@@ -2,12 +2,12 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/l7t4b0I.m3u8$!
-大连生活,http://live.dltv.cn/JzcFkF4/500/o4J4c0k.m3u8$!
-大连文体,http://live.dltv.cn/hxT7Fc3/500/4om4T0F.m3u8$!
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/017hc43.m3u8$!
+大连生活,http://live.dltv.cn/JzcFkF4/500/314h74F.m3u8$!
+大连文体,http://live.dltv.cn/hxT7Fc3/500/johx47m.m3u8$!
 大连影视
 大连少儿
-大连购物,http://live.dltv.cn/N4S4uAj/500/73lN4S0.m3u8$!
+大连购物,http://live.dltv.cn/N4S4uAj/500/m3len4n.m3u8$!
 彩虹电影,http://suo.im/9sOLD$!
 香蕉,http://s.mrw.so/94E7W$!
 惊艳,http://suo.im/8odLv$!
@@ -31,7 +31,3 @@
 正版俄罗斯2,http://ali.hlspull.yximgs.com/live/1a76b899d28ac2864bc11e0c63ff2a73.flv$!
 正版俄罗斯3,http://ali.hlspull.yximgs.com/live/b048a54037a1ba6b1829c2499a255b20.flv$!
 国语吃屎,https://vip7.newljlj.com/20240706/Aatz7SDm/index.m3u8$!
-教程免费学,https://fel.forxhr.top:2022/view.php/7ae4d6aaee64b8e4fdfbde8ea2fd2a8a.mp4$!
-会员介绍点这里,https://fel.forxhr.top:2022/view.php/586b5667d66884490ed1f094dffad921.mp4$!
-20米福利下载,http://ali.hlspull.yxi26461419QQ群726461419QQ群726461419QQ群726461419QQ群726461419QQ群726461419QQ群726461419$!
-个人微信,https://fel.forxhr.top:2022/view.php/06ae7b7fa7ebca458ded24171e5a4316.mp4$!
