@@ -2,32 +2,9 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/017hc43.m3u8$!
-大连生活,http://live.dltv.cn/JzcFkF4/500/314h74F.m3u8$!
-大连文体,http://live.dltv.cn/hxT7Fc3/500/johx47m.m3u8$!
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/k477tb0.m3u8$!
+大连生活,http://live.dltv.cn/JzcFkF4/500/n44Jtc0.m3u8$!
+大连文体,http://live.dltv.cn/hxT7Fc3/500/34omtT0.m3u8$!
 大连影视
 大连少儿
-大连购物,http://live.dltv.cn/N4S4uAj/500/m3len4n.m3u8$!
-彩虹电影,http://suo.im/9sOLD$!
-香蕉,http://s.mrw.so/94E7W$!
-惊艳,http://suo.im/8odLv$!
-每周五中午开播,http://ali.hlspull.yximgs.com/live/005df5f04f12298eaeb8965$!
-群晖星期二开播,http://ali.hlspull.yximgs.com/live/005df5f04f12298eaeb8965d$!
-会员不受影响,http://ali.hlspull.yximgs.com/live/005df5f04f12298eaeb896$!
-免费松看3天,http://ali.hlspull.yximgs.com/live/005df5f04f12298eaeb896$!
-内部看6天,http://ali.hlspull.yximgs.com/live/005df5f04f12298eaeb896$!
-正式松視1臺,http://ali.hlspull.yximgs.com/live/180e884f3bc2b5afa569747527bc99da.flv$!
-正式松視2臺,http://ali.hlspull.yximgs.com/live/a49059239da74e4c3ef355916302d3e2.flv$!
-正式松視3臺,http://ali.hlspull.yximgs.com/live/512f28e4c685a0a06cefc56bd91b6214.flv$!
-正式松視E臺,http://ali.hlspull.yximgs.com/live/3f6c4fe63df023b40c6c6e4ec13c424d.flv$!
-正式松視K臺,http://ali.hlspull.yximgs.com/live/5a4a43bf6d73877e3efcf2173e5ec6fd.flv$!
-正式松視彩虹电影,http://ali.hlspull.yximgs.com/live/5da0442af7f87aaf55530e23db16aed0.flv$!
-正式松視潘多臺,http://ali.hlspull.yximgs.com/live/6b5b81522817966b8547748760ae036a.flv$!
-正式奧視驚艷臺,http://ali.hlspull.yximgs.com/live/a046aa741c1811ba46255fe701e1d045.flv$!
-正式奧視香蕉臺,http://ali.hlspull.yximgs.com/live/38b3ffba1d922dd5df0617f50688dfd1.flv$!
-正式松視开心臺,http://ali.hlspull.yximgs.com/live/d42bace2445c851c07ed9f4a53805a8e.flv$!
-正式松視极限臺,http://ali.hlspull.yximgs.com/live/e0e053adaf384f1572afc2f64664ba14.flv$!
-正版俄罗斯1,http://ali.hlspull.yximgs.com/live/350759fb70f05baa17d1025dc6abd44f.flv$!
-正版俄罗斯2,http://ali.hlspull.yximgs.com/live/1a76b899d28ac2864bc11e0c63ff2a73.flv$!
-正版俄罗斯3,http://ali.hlspull.yximgs.com/live/b048a54037a1ba6b1829c2499a255b20.flv$!
-国语吃屎,https://vip7.newljlj.com/20240706/Aatz7SDm/index.m3u8$!
+大连购物,http://live.dltv.cn/N4S4uAj/500/67lNtS0.m3u8$!
