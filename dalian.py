@@ -66,6 +66,3 @@ def fetch_playlist_url():
 
 if __name__ == "__main__":
     fetch_playlist_url()  # 调用函数
-```
-
-这样，即使链接无法获取频道信息，代码也会打印详细的错误信息，并且不会报错。
