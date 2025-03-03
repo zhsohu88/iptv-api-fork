@@ -1,3 +1,6 @@
+在代码中可以通过 `try` 和 `except` 捕获异常并打印错误信息。以下是修改后的代码示例，添加了错误提示信息：
+
+```python
 import requests  # 用于发送HTTP请求的库
 import re  # 用于处理正则表达式的库
 import time  # 用于处理时间相关的函数
@@ -56,11 +59,16 @@ def fetch_playlist_url():
                 elif current_group and any(group in current_group for group in target_groups) and "," in line:  # 如果当前分组包含需要的分组名称且是频道行
                     channel_name, playlist_url = line.split(",", 1)  # 分割频道名称和播放地址
                     output_lines.append(f"{channel_name},{playlist_url}$!")  # 添加频道名称和播放地址，并在链接后面加上$!
+        else:
+            print(f"Failed to fetch additional channels: {new_source_url} with status code {response.status_code}")  # 捕获请求异常
     except requests.exceptions.RequestException as e:
-        print(f"Failed to fetch additional channels: {new_source_url}")  # 捕获请求异常
+        print(f"Failed to fetch additional channels: {new_source_url}. Error: {e}")  # 捕获请求异常
 
     with open("config/user_local.txt", "w") as file:  # 将结果写入文件
         file.write("\n".join(output_lines))
 
 if __name__ == "__main__":
     fetch_playlist_url()  # 调用函数
+```
+
+这样，即使链接无法获取频道信息，代码也会打印详细的错误信息，并且不会报错。
