@@ -1,6 +1,3 @@
-在代码中可以通过 `try` 和 `except` 捕获异常并打印错误信息。以下是修改后的代码示例，添加了错误提示信息：
-
-```python
 import requests  # 用于发送HTTP请求的库
 import re  # 用于处理正则表达式的库
 import time  # 用于处理时间相关的函数
