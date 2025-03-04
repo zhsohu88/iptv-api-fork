@@ -56,6 +56,8 @@ http://117.72.68.25:9230/latest.txt
 http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
 # 海燕直播
 https://chuxinya.top/f/AD5QHE/%E6%B5%B7%E7%87%95.txt
+# 飞蓝电视
+http://zhibo.feylen.top/fltv/feiyang1.txt
 # 彩直港澳台(黑软顶配直播)成人
 # https://codeberg.org/weidi/AV18_X18/raw/branch/master/xh
 # 彩直港澳台(黑软顶配直播)成人-黑软19花
